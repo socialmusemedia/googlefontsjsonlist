@@ -1,1294 +1,8702 @@
-[
-  "ABeeZee",
-  "Abel",
-  "Abhaya Libre",
-  "Abril Fatface",
-  "Aclonica",
-  "Acme",
-  "Actor",
-  "Adamina",
-  "Advent Pro",
-  "Aguafina Script",
-  "Akaya Kanadaka",
-  "Akaya Telivigala",
-  "Akronim",
-  "Aladin",
-  "Alata",
-  "Alatsi",
-  "Aldrich",
-  "Alef",
-  "Alegreya",
-  "Alegreya SC",
-  "Alegreya Sans",
-  "Alegreya Sans SC",
-  "Aleo",
-  "Alex Brush",
-  "Alfa Slab One",
-  "Alice",
-  "Alike",
-  "Alike Angular",
-  "Allan",
-  "Allerta",
-  "Allerta Stencil",
-  "Allison",
-  "Allura",
-  "Almarai",
-  "Almendra",
-  "Almendra Display",
-  "Almendra SC",
-  "Alumni Sans",
-  "Amarante",
-  "Amaranth",
-  "Amatic SC",
-  "Amethysta",
-  "Amiko",
-  "Amiri",
-  "Amita",
-  "Anaheim",
-  "Andada Pro",
-  "Andika",
-  "Andika New Basic",
-  "Angkor",
-  "Annie Use Your Telescope",
-  "Anonymous Pro",
-  "Antic",
-  "Antic Didone",
-  "Antic Slab",
-  "Anton",
-  "Antonio",
-  "Arapey",
-  "Arbutus",
-  "Arbutus Slab",
-  "Architects Daughter",
-  "Archivo",
-  "Archivo Black",
-  "Archivo Narrow",
-  "Are You Serious",
-  "Aref Ruqaa",
-  "Arima Madurai",
-  "Arimo",
-  "Arizonia",
-  "Armata",
-  "Arsenal",
-  "Artifika",
-  "Arvo",
-  "Arya",
-  "Asap",
-  "Asap Condensed",
-  "Asar",
-  "Asset",
-  "Assistant",
-  "Astloch",
-  "Asul",
-  "Athiti",
-  "Atkinson Hyperlegible",
-  "Atma",
-  "Atomic Age",
-  "Aubrey",
-  "Audiowide",
-  "Autour One",
-  "Average",
-  "Average Sans",
-  "Averia Gruesa Libre",
-  "Averia Libre",
-  "Averia Sans Libre",
-  "Averia Serif Libre",
-  "Azeret Mono",
-  "B612",
-  "B612 Mono",
-  "Bad Script",
-  "Bahiana",
-  "Bahianita",
-  "Bai Jamjuree",
-  "Ballet",
-  "Baloo 2",
-  "Baloo Bhai 2",
-  "Baloo Bhaina 2",
-  "Baloo Chettan 2",
-  "Baloo Da 2",
-  "Baloo Paaji 2",
-  "Baloo Tamma 2",
-  "Baloo Tammudu 2",
-  "Baloo Thambi 2",
-  "Balsamiq Sans",
-  "Balthazar",
-  "Bangers",
-  "Barlow",
-  "Barlow Condensed",
-  "Barlow Semi Condensed",
-  "Barriecito",
-  "Barrio",
-  "Basic",
-  "Baskervville",
-  "Battambang",
-  "Baumans",
-  "Bayon",
-  "Be Vietnam",
-  "Be Vietnam Pro",
-  "Bebas Neue",
-  "Belgrano",
-  "Bellefair",
-  "Belleza",
-  "Bellota",
-  "Bellota Text",
-  "BenchNine",
-  "Benne",
-  "Bentham",
-  "Berkshire Swash",
-  "Besley",
-  "Beth Ellen",
-  "Bevan",
-  "Big Shoulders Display",
-  "Big Shoulders Inline Display",
-  "Big Shoulders Inline Text",
-  "Big Shoulders Stencil Display",
-  "Big Shoulders Stencil Text",
-  "Big Shoulders Text",
-  "Bigelow Rules",
-  "Bigshot One",
-  "Bilbo",
-  "Bilbo Swash Caps",
-  "BioRhyme",
-  "BioRhyme Expanded",
-  "Birthstone",
-  "Birthstone Bounce",
-  "Biryani",
-  "Bitter",
-  "Black And White Picture",
-  "Black Han Sans",
-  "Black Ops One",
-  "Blinker",
-  "Bodoni Moda",
-  "Bokor",
-  "Bona Nova",
-  "Bonbon",
-  "Bonheur Royale",
-  "Boogaloo",
-  "Bowlby One",
-  "Bowlby One SC",
-  "Brawler",
-  "Bree Serif",
-  "Brygada 1918",
-  "Bubblegum Sans",
-  "Bubbler One",
-  "Buda",
-  "Buenard",
-  "Bungee",
-  "Bungee Hairline",
-  "Bungee Inline",
-  "Bungee Outline",
-  "Bungee Shade",
-  "Butcherman",
-  "Butterfly Kids",
-  "Cabin",
-  "Cabin Condensed",
-  "Cabin Sketch",
-  "Caesar Dressing",
-  "Cagliostro",
-  "Cairo",
-  "Caladea",
-  "Calistoga",
-  "Calligraffitti",
-  "Cambay",
-  "Cambo",
-  "Candal",
-  "Cantarell",
-  "Cantata One",
-  "Cantora One",
-  "Capriola",
-  "Caramel",
-  "Carattere",
-  "Cardo",
-  "Carme",
-  "Carrois Gothic",
-  "Carrois Gothic SC",
-  "Carter One",
-  "Castoro",
-  "Catamaran",
-  "Caudex",
-  "Caveat",
-  "Caveat Brush",
-  "Cedarville Cursive",
-  "Ceviche One",
-  "Chakra Petch",
-  "Changa",
-  "Changa One",
-  "Chango",
-  "Charm",
-  "Charmonman",
-  "Chathura",
-  "Chau Philomene One",
-  "Chela One",
-  "Chelsea Market",
-  "Chenla",
-  "Cherish",
-  "Cherry Cream Soda",
-  "Cherry Swash",
-  "Chewy",
-  "Chicle",
-  "Chilanka",
-  "Chivo",
-  "Chonburi",
-  "Cinzel",
-  "Cinzel Decorative",
-  "Clicker Script",
-  "Coda",
-  "Coda Caption",
-  "Codystar",
-  "Coiny",
-  "Combo",
-  "Comfortaa",
-  "Comic Neue",
-  "Coming Soon",
-  "Commissioner",
-  "Concert One",
-  "Condiment",
-  "Content",
-  "Contrail One",
-  "Convergence",
-  "Cookie",
-  "Copse",
-  "Corben",
-  "Cormorant",
-  "Cormorant Garamond",
-  "Cormorant Infant",
-  "Cormorant SC",
-  "Cormorant Unicase",
-  "Cormorant Upright",
-  "Courgette",
-  "Courier Prime",
-  "Cousine",
-  "Coustard",
-  "Covered By Your Grace",
-  "Crafty Girls",
-  "Creepster",
-  "Crete Round",
-  "Crimson Pro",
-  "Crimson Text",
-  "Croissant One",
-  "Crushed",
-  "Cuprum",
-  "Cute Font",
-  "Cutive",
-  "Cutive Mono",
-  "DM Mono",
-  "DM Sans",
-  "DM Serif Display",
-  "DM Serif Text",
-  "Damion",
-  "Dancing Script",
-  "Dangrek",
-  "Darker Grotesque",
-  "David Libre",
-  "Dawning of a New Day",
-  "Days One",
-  "Dekko",
-  "Dela Gothic One",
-  "Delius",
-  "Delius Swash Caps",
-  "Delius Unicase",
-  "Della Respira",
-  "Denk One",
-  "Devonshire",
-  "Dhurjati",
-  "Didact Gothic",
-  "Diplomata",
-  "Diplomata SC",
-  "Do Hyeon",
-  "Dokdo",
-  "Domine",
-  "Donegal One",
-  "Doppio One",
-  "Dorsa",
-  "Dosis",
-  "DotGothic16",
-  "Dr Sugiyama",
-  "Duru Sans",
-  "Dynalight",
-  "EB Garamond",
-  "Eagle Lake",
-  "East Sea Dokdo",
-  "Eater",
-  "Economica",
-  "Eczar",
-  "El Messiri",
-  "Electrolize",
-  "Elsie",
-  "Elsie Swash Caps",
-  "Emblema One",
-  "Emilys Candy",
-  "Encode Sans",
-  "Encode Sans Condensed",
-  "Encode Sans Expanded",
-  "Encode Sans SC",
-  "Encode Sans Semi Condensed",
-  "Encode Sans Semi Expanded",
-  "Engagement",
-  "Englebert",
-  "Enriqueta",
-  "Ephesis",
-  "Epilogue",
-  "Erica One",
-  "Esteban",
-  "Euphoria Script",
-  "Ewert",
-  "Exo",
-  "Exo 2",
-  "Expletus Sans",
-  "Explora",
-  "Fahkwang",
-  "Fanwood Text",
-  "Farro",
-  "Farsan",
-  "Fascinate",
-  "Fascinate Inline",
-  "Faster One",
-  "Fasthand",
-  "Fauna One",
-  "Faustina",
-  "Federant",
-  "Federo",
-  "Felipa",
-  "Fenix",
-  "Festive",
-  "Finger Paint",
-  "Fira Code",
-  "Fira Mono",
-  "Fira Sans",
-  "Fira Sans Condensed",
-  "Fira Sans Extra Condensed",
-  "Fjalla One",
-  "Fjord One",
-  "Flamenco",
-  "Flavors",
-  "Fleur De Leah",
-  "Fondamento",
-  "Fontdiner Swanky",
-  "Forum",
-  "Francois One",
-  "Frank Ruhl Libre",
-  "Fraunces",
-  "Freckle Face",
-  "Fredericka the Great",
-  "Fredoka One",
-  "Freehand",
-  "Fresca",
-  "Frijole",
-  "Fruktur",
-  "Fugaz One",
-  "Fuggles",
-  "GFS Didot",
-  "GFS Neohellenic",
-  "Gabriela",
-  "Gaegu",
-  "Gafata",
-  "Galada",
-  "Galdeano",
-  "Galindo",
-  "Gamja Flower",
-  "Gayathri",
-  "Gelasio",
-  "Gemunu Libre",
-  "Gentium Basic",
-  "Gentium Book Basic",
-  "Geo",
-  "Georama",
-  "Geostar",
-  "Geostar Fill",
-  "Germania One",
-  "Gideon Roman",
-  "Gidugu",
-  "Gilda Display",
-  "Girassol",
-  "Give You Glory",
-  "Glass Antiqua",
-  "Glegoo",
-  "Gloria Hallelujah",
-  "Glory",
-  "Gluten",
-  "Goblin One",
-  "Gochi Hand",
-  "Goldman",
-  "Gorditas",
-  "Gothic A1",
-  "Gotu",
-  "Goudy Bookletter 1911",
-  "Gowun Batang",
-  "Gowun Dodum",
-  "Graduate",
-  "Grand Hotel",
-  "Grandstander",
-  "Gravitas One",
-  "Great Vibes",
-  "Grechen Fuemen",
-  "Grenze",
-  "Grenze Gotisch",
-  "Grey Qo",
-  "Griffy",
-  "Gruppo",
-  "Gudea",
-  "Gugi",
-  "Gupter",
-  "Gurajada",
-  "Habibi",
-  "Hachi Maru Pop",
-  "Hahmlet",
-  "Halant",
-  "Hammersmith One",
-  "Hanalei",
-  "Hanalei Fill",
-  "Handlee",
-  "Hanuman",
-  "Happy Monkey",
-  "Harmattan",
-  "Headland One",
-  "Heebo",
-  "Henny Penny",
-  "Hepta Slab",
-  "Herr Von Muellerhoff",
-  "Hi Melody",
-  "Hina Mincho",
-  "Hind",
-  "Hind Guntur",
-  "Hind Madurai",
-  "Hind Siliguri",
-  "Hind Vadodara",
-  "Holtwood One SC",
-  "Homemade Apple",
-  "Homenaje",
-  "IBM Plex Mono",
-  "IBM Plex Sans",
-  "IBM Plex Sans Arabic",
-  "IBM Plex Sans Condensed",
-  "IBM Plex Sans Devanagari",
-  "IBM Plex Sans Hebrew",
-  "IBM Plex Sans KR",
-  "IBM Plex Sans Thai",
-  "IBM Plex Sans Thai Looped",
-  "IBM Plex Serif",
-  "IM Fell DW Pica",
-  "IM Fell DW Pica SC",
-  "IM Fell Double Pica",
-  "IM Fell Double Pica SC",
-  "IM Fell English",
-  "IM Fell English SC",
-  "IM Fell French Canon",
-  "IM Fell French Canon SC",
-  "IM Fell Great Primer",
-  "IM Fell Great Primer SC",
-  "Ibarra Real Nova",
-  "Iceberg",
-  "Iceland",
-  "Imbue",
-  "Imprima",
-  "Inconsolata",
-  "Inder",
-  "Indie Flower",
-  "Inika",
-  "Inknut Antiqua",
-  "Inria Sans",
-  "Inria Serif",
-  "Inter",
-  "Irish Grover",
-  "Istok Web",
-  "Italiana",
-  "Italianno",
-  "Itim",
-  "Jacques Francois",
-  "Jacques Francois Shadow",
-  "Jaldi",
-  "JetBrains Mono",
-  "Jim Nightshade",
-  "Jockey One",
-  "Jolly Lodger",
-  "Jomhuria",
-  "Jomolhari",
-  "Josefin Sans",
-  "Josefin Slab",
-  "Jost",
-  "Joti One",
-  "Jua",
-  "Judson",
-  "Julee",
-  "Julius Sans One",
-  "Junge",
-  "Jura",
-  "Just Another Hand",
-  "Just Me Again Down Here",
-  "K2D",
-  "Kadwa",
-  "Kaisei Decol",
-  "Kaisei HarunoUmi",
-  "Kaisei Opti",
-  "Kaisei Tokumin",
-  "Kalam",
-  "Kameron",
-  "Kanit",
-  "Kantumruy",
-  "Karantina",
-  "Karla",
-  "Karma",
-  "Katibeh",
-  "Kaushan Script",
-  "Kavivanar",
-  "Kavoon",
-  "Kdam Thmor",
-  "Keania One",
-  "Kelly Slab",
-  "Kenia",
-  "Khand",
-  "Khmer",
-  "Khula",
-  "Kirang Haerang",
-  "Kite One",
-  "Kiwi Maru",
-  "Klee One",
-  "Knewave",
-  "KoHo",
-  "Kodchasan",
-  "Koh Santepheap",
-  "Kosugi",
-  "Kosugi Maru",
-  "Kotta One",
-  "Koulen",
-  "Kranky",
-  "Kreon",
-  "Kristi",
-  "Krona One",
-  "Krub",
-  "Kufam",
-  "Kulim Park",
-  "Kumar One",
-  "Kumar One Outline",
-  "Kumbh Sans",
-  "Kurale",
-  "La Belle Aurore",
-  "Lacquer",
-  "Laila",
-  "Lakki Reddy",
-  "Lalezar",
-  "Lancelot",
-  "Langar",
-  "Lateef",
-  "Lato",
-  "League Script",
-  "Leckerli One",
-  "Ledger",
-  "Lekton",
-  "Lemon",
-  "Lemonada",
-  "Lexend",
-  "Lexend Deca",
-  "Lexend Exa",
-  "Lexend Giga",
-  "Lexend Mega",
-  "Lexend Peta",
-  "Lexend Tera",
-  "Lexend Zetta",
-  "Libre Barcode 128",
-  "Libre Barcode 128 Text",
-  "Libre Barcode 39",
-  "Libre Barcode 39 Extended",
-  "Libre Barcode 39 Extended Text",
-  "Libre Barcode 39 Text",
-  "Libre Barcode EAN13 Text",
-  "Libre Baskerville",
-  "Libre Caslon Display",
-  "Libre Caslon Text",
-  "Libre Franklin",
-  "Life Savers",
-  "Lilita One",
-  "Lily Script One",
-  "Limelight",
-  "Linden Hill",
-  "Literata",
-  "Liu Jian Mao Cao",
-  "Livvic",
-  "Lobster",
-  "Lobster Two",
-  "Londrina Outline",
-  "Londrina Shadow",
-  "Londrina Sketch",
-  "Londrina Solid",
-  "Long Cang",
-  "Lora",
-  "Love Ya Like A Sister",
-  "Loved by the King",
-  "Lovers Quarrel",
-  "Luckiest Guy",
-  "Lusitana",
-  "Lustria",
-  "M PLUS 1p",
-  "M PLUS Rounded 1c",
-  "Ma Shan Zheng",
-  "Macondo",
-  "Macondo Swash Caps",
-  "Mada",
-  "Magra",
-  "Maiden Orange",
-  "Maitree",
-  "Major Mono Display",
-  "Mako",
-  "Mali",
-  "Mallanna",
-  "Mandali",
-  "Manjari",
-  "Manrope",
-  "Mansalva",
-  "Manuale",
-  "Marcellus",
-  "Marcellus SC",
-  "Marck Script",
-  "Margarine",
-  "Markazi Text",
-  "Marko One",
-  "Marmelad",
-  "Martel",
-  "Martel Sans",
-  "Marvel",
-  "Mate",
-  "Mate SC",
-  "Material Icons",
-  "Maven Pro",
-  "McLaren",
-  "Meddon",
-  "MedievalSharp",
-  "Medula One",
-  "Meera Inimai",
-  "Megrim",
-  "Meie Script",
-  "Merienda",
-  "Merienda One",
-  "Merriweather",
-  "Merriweather Sans",
-  "Metal",
-  "Metal Mania",
-  "Metamorphous",
-  "Metrophobic",
-  "Michroma",
-  "Milonga",
-  "Miltonian",
-  "Miltonian Tattoo",
-  "Mina",
-  "Miniver",
-  "Miriam Libre",
-  "Mirza",
-  "Miss Fajardose",
-  "Mitr",
-  "Modak",
-  "Modern Antiqua",
-  "Mogra",
-  "Molengo",
-  "Molle",
-  "Monda",
-  "Monofett",
-  "Monoton",
-  "Monsieur La Doulaise",
-  "Montaga",
-  "MonteCarlo",
-  "Montez",
-  "Montserrat",
-  "Montserrat Alternates",
-  "Montserrat Subrayada",
-  "Moul",
-  "Moulpali",
-  "Mountains of Christmas",
-  "Mouse Memoirs",
-  "Mr Bedfort",
-  "Mr Dafoe",
-  "Mr De Haviland",
-  "Mrs Saint Delafield",
-  "Mrs Sheppards",
-  "Mukta",
-  "Mukta Mahee",
-  "Mukta Malar",
-  "Mukta Vaani",
-  "Mulish",
-  "MuseoModerno",
-  "Mystery Quest",
-  "NTR",
-  "Nanum Brush Script",
-  "Nanum Gothic",
-  "Nanum Gothic Coding",
-  "Nanum Myeongjo",
-  "Nanum Pen Script",
-  "Nerko One",
-  "Neucha",
-  "Neuton",
-  "New Rocker",
-  "New Tegomin",
-  "News Cycle",
-  "Newsreader",
-  "Niconne",
-  "Niramit",
-  "Nixie One",
-  "Nobile",
-  "Nokora",
-  "Norican",
-  "Nosifer",
-  "Notable",
-  "Nothing You Could Do",
-  "Noticia Text",
-  "Noto Kufi Arabic",
-  "Noto Music",
-  "Noto Naskh Arabic",
-  "Noto Nastaliq Urdu",
-  "Noto Rashi Hebrew",
-  "Noto Sans",
-  "Noto Sans Adlam",
-  "Noto Sans Adlam Unjoined",
-  "Noto Sans Anatolian Hieroglyphs",
-  "Noto Sans Arabic",
-  "Noto Sans Armenian",
-  "Noto Sans Avestan",
-  "Noto Sans Balinese",
-  "Noto Sans Bamum",
-  "Noto Sans Bassa Vah",
-  "Noto Sans Batak",
-  "Noto Sans Bengali",
-  "Noto Sans Bhaiksuki",
-  "Noto Sans Brahmi",
-  "Noto Sans Buginese",
-  "Noto Sans Buhid",
-  "Noto Sans Canadian Aboriginal",
-  "Noto Sans Carian",
-  "Noto Sans Caucasian Albanian",
-  "Noto Sans Chakma",
-  "Noto Sans Cham",
-  "Noto Sans Cherokee",
-  "Noto Sans Coptic",
-  "Noto Sans Cuneiform",
-  "Noto Sans Cypriot",
-  "Noto Sans Deseret",
-  "Noto Sans Devanagari",
-  "Noto Sans Display",
-  "Noto Sans Duployan",
-  "Noto Sans Egyptian Hieroglyphs",
-  "Noto Sans Elbasan",
-  "Noto Sans Elymaic",
-  "Noto Sans Georgian",
-  "Noto Sans Glagolitic",
-  "Noto Sans Gothic",
-  "Noto Sans Grantha",
-  "Noto Sans Gujarati",
-  "Noto Sans Gunjala Gondi",
-  "Noto Sans Gurmukhi",
-  "Noto Sans HK",
-  "Noto Sans Hanifi Rohingya",
-  "Noto Sans Hanunoo",
-  "Noto Sans Hatran",
-  "Noto Sans Hebrew",
-  "Noto Sans Imperial Aramaic",
-  "Noto Sans Indic Siyaq Numbers",
-  "Noto Sans Inscriptional Pahlavi",
-  "Noto Sans Inscriptional Parthian",
-  "Noto Sans JP",
-  "Noto Sans Javanese",
-  "Noto Sans KR",
-  "Noto Sans Kaithi",
-  "Noto Sans Kannada",
-  "Noto Sans Kayah Li",
-  "Noto Sans Kharoshthi",
-  "Noto Sans Khmer",
-  "Noto Sans Khojki",
-  "Noto Sans Khudawadi",
-  "Noto Sans Lao",
-  "Noto Sans Lepcha",
-  "Noto Sans Limbu",
-  "Noto Sans Linear A",
-  "Noto Sans Linear B",
-  "Noto Sans Lisu",
-  "Noto Sans Lycian",
-  "Noto Sans Lydian",
-  "Noto Sans Mahajani",
-  "Noto Sans Malayalam",
-  "Noto Sans Mandaic",
-  "Noto Sans Manichaean",
-  "Noto Sans Marchen",
-  "Noto Sans Masaram Gondi",
-  "Noto Sans Math",
-  "Noto Sans Mayan Numerals",
-  "Noto Sans Medefaidrin",
-  "Noto Sans Meroitic",
-  "Noto Sans Miao",
-  "Noto Sans Modi",
-  "Noto Sans Mongolian",
-  "Noto Sans Mono",
-  "Noto Sans Mro",
-  "Noto Sans Multani",
-  "Noto Sans Myanmar",
-  "Noto Sans N Ko",
-  "Noto Sans Nabataean",
-  "Noto Sans New Tai Lue",
-  "Noto Sans Newa",
-  "Noto Sans Nushu",
-  "Noto Sans Ogham",
-  "Noto Sans Ol Chiki",
-  "Noto Sans Old Hungarian",
-  "Noto Sans Old Italic",
-  "Noto Sans Old North Arabian",
-  "Noto Sans Old Permic",
-  "Noto Sans Old Persian",
-  "Noto Sans Old Sogdian",
-  "Noto Sans Old South Arabian",
-  "Noto Sans Old Turkic",
-  "Noto Sans Oriya",
-  "Noto Sans Osage",
-  "Noto Sans Osmanya",
-  "Noto Sans Pahawh Hmong",
-  "Noto Sans Palmyrene",
-  "Noto Sans Pau Cin Hau",
-  "Noto Sans Phags Pa",
-  "Noto Sans Phoenician",
-  "Noto Sans Psalter Pahlavi",
-  "Noto Sans Rejang",
-  "Noto Sans Runic",
-  "Noto Sans SC",
-  "Noto Sans Samaritan",
-  "Noto Sans Saurashtra",
-  "Noto Sans Sharada",
-  "Noto Sans Shavian",
-  "Noto Sans Siddham",
-  "Noto Sans Sinhala",
-  "Noto Sans Sogdian",
-  "Noto Sans Sora Sompeng",
-  "Noto Sans Soyombo",
-  "Noto Sans Sundanese",
-  "Noto Sans Syloti Nagri",
-  "Noto Sans Symbols",
-  "Noto Sans Symbols 2",
-  "Noto Sans Syriac",
-  "Noto Sans TC",
-  "Noto Sans Tagalog",
-  "Noto Sans Tagbanwa",
-  "Noto Sans Tai Le",
-  "Noto Sans Tai Tham",
-  "Noto Sans Tai Viet",
-  "Noto Sans Takri",
-  "Noto Sans Tamil",
-  "Noto Sans Tamil Supplement",
-  "Noto Sans Telugu",
-  "Noto Sans Thaana",
-  "Noto Sans Thai",
-  "Noto Sans Thai Looped",
-  "Noto Sans Tifinagh",
-  "Noto Sans Tirhuta",
-  "Noto Sans Ugaritic",
-  "Noto Sans Vai",
-  "Noto Sans Wancho",
-  "Noto Sans Warang Citi",
-  "Noto Sans Yi",
-  "Noto Sans Zanabazar Square",
-  "Noto Serif",
-  "Noto Serif Ahom",
-  "Noto Serif Armenian",
-  "Noto Serif Balinese",
-  "Noto Serif Bengali",
-  "Noto Serif Devanagari",
-  "Noto Serif Display",
-  "Noto Serif Dogra",
-  "Noto Serif Ethiopic",
-  "Noto Serif Georgian",
-  "Noto Serif Grantha",
-  "Noto Serif Gujarati",
-  "Noto Serif Gurmukhi",
-  "Noto Serif Hebrew",
-  "Noto Serif JP",
-  "Noto Serif KR",
-  "Noto Serif Kannada",
-  "Noto Serif Khmer",
-  "Noto Serif Lao",
-  "Noto Serif Malayalam",
-  "Noto Serif Myanmar",
-  "Noto Serif Nyiakeng Puachue Hmong",
-  "Noto Serif SC",
-  "Noto Serif Sinhala",
-  "Noto Serif TC",
-  "Noto Serif Tamil",
-  "Noto Serif Tangut",
-  "Noto Serif Telugu",
-  "Noto Serif Thai",
-  "Noto Serif Tibetan",
-  "Noto Serif Yezidi",
-  "Noto Traditional Nushu",
-  "Nova Cut",
-  "Nova Flat",
-  "Nova Mono",
-  "Nova Oval",
-  "Nova Round",
-  "Nova Script",
-  "Nova Slim",
-  "Nova Square",
-  "Numans",
-  "Nunito",
-  "Nunito Sans",
-  "Odibee Sans",
-  "Odor Mean Chey",
-  "Offside",
-  "Oi",
-  "Old Standard TT",
-  "Oldenburg",
-  "Oleo Script",
-  "Oleo Script Swash Caps",
-  "Open Sans",
-  "Open Sans Condensed",
-  "Oranienbaum",
-  "Orbitron",
-  "Oregano",
-  "Orelega One",
-  "Orienta",
-  "Original Surfer",
-  "Oswald",
-  "Otomanopee One",
-  "Over the Rainbow",
-  "Overlock",
-  "Overlock SC",
-  "Overpass",
-  "Overpass Mono",
-  "Ovo",
-  "Oxanium",
-  "Oxygen",
-  "Oxygen Mono",
-  "PT Mono",
-  "PT Sans",
-  "PT Sans Caption",
-  "PT Sans Narrow",
-  "PT Serif",
-  "PT Serif Caption",
-  "Pacifico",
-  "Padauk",
-  "Palanquin",
-  "Palanquin Dark",
-  "Palette Mosaic",
-  "Pangolin",
-  "Paprika",
-  "Parisienne",
-  "Passero One",
-  "Passion One",
-  "Pathway Gothic One",
-  "Patrick Hand",
-  "Patrick Hand SC",
-  "Pattaya",
-  "Patua One",
-  "Pavanam",
-  "Paytone One",
-  "Peddana",
-  "Peralta",
-  "Permanent Marker",
-  "Petit Formal Script",
-  "Petrona",
-  "Philosopher",
-  "Piazzolla",
-  "Piedra",
-  "Pinyon Script",
-  "Pirata One",
-  "Plaster",
-  "Play",
-  "Playball",
-  "Playfair Display",
-  "Playfair Display SC",
-  "Podkova",
-  "Poiret One",
-  "Poller One",
-  "Poly",
-  "Pompiere",
-  "Pontano Sans",
-  "Poor Story",
-  "Poppins",
-  "Port Lligat Sans",
-  "Port Lligat Slab",
-  "Potta One",
-  "Pragati Narrow",
-  "Prata",
-  "Preahvihear",
-  "Press Start 2P",
-  "Pridi",
-  "Princess Sofia",
-  "Prociono",
-  "Prompt",
-  "Prosto One",
-  "Proza Libre",
-  "Public Sans",
-  "Puritan",
-  "Purple Purse",
-  "Qahiri",
-  "Quando",
-  "Quantico",
-  "Quattrocento",
-  "Quattrocento Sans",
-  "Questrial",
-  "Quicksand",
-  "Quintessential",
-  "Qwigley",
-  "Racing Sans One",
-  "Radley",
-  "Rajdhani",
-  "Rakkas",
-  "Raleway",
-  "Raleway Dots",
-  "Ramabhadra",
-  "Ramaraja",
-  "Rambla",
-  "Rammetto One",
-  "Rampart One",
-  "Ranchers",
-  "Rancho",
-  "Ranga",
-  "Rasa",
-  "Rationale",
-  "Ravi Prakash",
-  "Recursive",
-  "Red Hat Display",
-  "Red Hat Text",
-  "Red Rose",
-  "Redressed",
-  "Reem Kufi",
-  "Reenie Beanie",
-  "Reggae One",
-  "Revalia",
-  "Rhodium Libre",
-  "Ribeye",
-  "Ribeye Marrow",
-  "Righteous",
-  "Risque",
-  "Roboto",
-  "Roboto Condensed",
-  "Roboto Mono",
-  "Roboto Slab",
-  "Rochester",
-  "Rock Salt",
-  "RocknRoll One",
-  "Rokkitt",
-  "Romanesco",
-  "Ropa Sans",
-  "Rosario",
-  "Rosarivo",
-  "Rouge Script",
-  "Rowdies",
-  "Rozha One",
-  "Rubik",
-  "Rubik Beastly",
-  "Rubik Mono One",
-  "Ruda",
-  "Rufina",
-  "Ruge Boogie",
-  "Ruluko",
-  "Rum Raisin",
-  "Ruslan Display",
-  "Russo One",
-  "Ruthie",
-  "Rye",
-  "STIX Two Text",
-  "Sacramento",
-  "Sahitya",
-  "Sail",
-  "Saira",
-  "Saira Condensed",
-  "Saira Extra Condensed",
-  "Saira Semi Condensed",
-  "Saira Stencil One",
-  "Salsa",
-  "Sanchez",
-  "Sancreek",
-  "Sansita",
-  "Sansita Swashed",
-  "Sarabun",
-  "Sarala",
-  "Sarina",
-  "Sarpanch",
-  "Satisfy",
-  "Sawarabi Gothic",
-  "Sawarabi Mincho",
-  "Scada",
-  "Scheherazade",
-  "Scheherazade New",
-  "Schoolbell",
-  "Scope One",
-  "Seaweed Script",
-  "Secular One",
-  "Sedgwick Ave",
-  "Sedgwick Ave Display",
-  "Sen",
-  "Sevillana",
-  "Seymour One",
-  "Shadows Into Light",
-  "Shadows Into Light Two",
-  "Shanti",
-  "Share",
-  "Share Tech",
-  "Share Tech Mono",
-  "Shippori Mincho",
-  "Shippori Mincho B1",
-  "Shojumaru",
-  "Short Stack",
-  "Shrikhand",
-  "Siemreap",
-  "Sigmar One",
-  "Signika",
-  "Signika Negative",
-  "Simonetta",
-  "Single Day",
-  "Sintony",
-  "Sirin Stencil",
-  "Six Caps",
-  "Skranji",
-  "Slabo 13px",
-  "Slabo 27px",
-  "Slackey",
-  "Smokum",
-  "Smythe",
-  "Sniglet",
-  "Snippet",
-  "Snowburst One",
-  "Sofadi One",
-  "Sofia",
-  "Solway",
-  "Song Myung",
-  "Sonsie One",
-  "Sora",
-  "Sorts Mill Goudy",
-  "Source Code Pro",
-  "Source Sans Pro",
-  "Source Serif Pro",
-  "Space Grotesk",
-  "Space Mono",
-  "Spartan",
-  "Special Elite",
-  "Spectral",
-  "Spectral SC",
-  "Spicy Rice",
-  "Spinnaker",
-  "Spirax",
-  "Squada One",
-  "Sree Krushnadevaraya",
-  "Sriracha",
-  "Srisakdi",
-  "Staatliches",
-  "Stalemate",
-  "Stalinist One",
-  "Stardos Stencil",
-  "Stick",
-  "Stick No Bills",
-  "Stint Ultra Condensed",
-  "Stint Ultra Expanded",
-  "Stoke",
-  "Strait",
-  "Style Script",
-  "Stylish",
-  "Sue Ellen Francisco",
-  "Suez One",
-  "Sulphur Point",
-  "Sumana",
-  "Sunflower",
-  "Sunshiney",
-  "Supermercado One",
-  "Sura",
-  "Suranna",
-  "Suravaram",
-  "Suwannaphum",
-  "Swanky and Moo Moo",
-  "Syncopate",
-  "Syne",
-  "Syne Mono",
-  "Syne Tactile",
-  "Tajawal",
-  "Tangerine",
-  "Taprom",
-  "Tauri",
-  "Taviraj",
-  "Teko",
-  "Telex",
-  "Tenali Ramakrishna",
-  "Tenor Sans",
-  "Text Me One",
-  "Texturina",
-  "Thasadith",
-  "The Girl Next Door",
-  "Tienne",
-  "Tillana",
-  "Timmana",
-  "Tinos",
-  "Titan One",
-  "Titillium Web",
-  "Tomorrow",
-  "Tourney",
-  "Trade Winds",
-  "Train One",
-  "Trirong",
-  "Trispace",
-  "Trocchi",
-  "Trochut",
-  "Truculenta",
-  "Trykker",
-  "Tulpen One",
-  "Turret Road",
-  "Ubuntu",
-  "Ubuntu Condensed",
-  "Ubuntu Mono",
-  "Uchen",
-  "Ultra",
-  "Uncial Antiqua",
-  "Underdog",
-  "Unica One",
-  "UnifrakturCook",
-  "UnifrakturMaguntia",
-  "Unkempt",
-  "Unlock",
-  "Unna",
-  "Urbanist",
-  "VT323",
-  "Vampiro One",
-  "Varela",
-  "Varela Round",
-  "Varta",
-  "Vast Shadow",
-  "Vesper Libre",
-  "Viaoda Libre",
-  "Vibes",
-  "Vibur",
-  "Vidaloka",
-  "Viga",
-  "Voces",
-  "Volkhov",
-  "Vollkorn",
-  "Vollkorn SC",
-  "Voltaire",
-  "Waiting for the Sunrise",
-  "Wallpoet",
-  "Walter Turncoat",
-  "Warnes",
-  "Wellfleet",
-  "Wendy One",
-  "WindSong",
-  "Wire One",
-  "Work Sans",
-  "Xanh Mono",
-  "Yaldevi",
-  "Yanone Kaffeesatz",
-  "Yantramanav",
-  "Yatra One",
-  "Yellowtail",
-  "Yeon Sung",
-  "Yeseva One",
-  "Yesteryear",
-  "Yomogi",
-  "Yrsa",
-  "Yusei Magic",
-  "ZCOOL KuaiLe",
-  "ZCOOL QingKe HuangYou",
-  "ZCOOL XiaoWei",
-  "Zen Antique",
-  "Zen Antique Soft",
-  "Zen Dots",
-  "Zen Kaku Gothic Antique",
-  "Zen Kaku Gothic New",
-  "Zen Kurenaido",
-  "Zen Loop",
-  "Zen Maru Gothic",
-  "Zen Old Mincho",
-  "Zen Tokyo Zoo",
-  "Zeyada",
-  "Zhi Mang Xing",
-  "Zilla Slab",
-  "Zilla Slab Highlight"
-]
+{
+  "ABeeZee": {
+    "weight": [
+      400
+    ]
+  },
+  "Abel": {
+    "weight": [
+      400
+    ]
+  },
+  "Abhaya Libre": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Abril Fatface": {
+    "weight": [
+      400
+    ]
+  },
+  "Aclonica": {
+    "weight": [
+      400
+    ]
+  },
+  "Acme": {
+    "weight": [
+      400
+    ]
+  },
+  "Actor": {
+    "weight": [
+      400
+    ]
+  },
+  "Adamina": {
+    "weight": [
+      400
+    ]
+  },
+  "Advent Pro": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Aguafina Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Akaya Kanadaka": {
+    "weight": [
+      400
+    ]
+  },
+  "Akaya Telivigala": {
+    "weight": [
+      400
+    ]
+  },
+  "Akronim": {
+    "weight": [
+      400
+    ]
+  },
+  "Aladin": {
+    "weight": [
+      400
+    ]
+  },
+  "Alata": {
+    "weight": [
+      400
+    ]
+  },
+  "Alatsi": {
+    "weight": [
+      400
+    ]
+  },
+  "Aldrich": {
+    "weight": [
+      400
+    ]
+  },
+  "Alef": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Alegreya": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Alegreya SC": {
+    "weight": [
+      400,
+      500,
+      700,
+      800,
+      900
+    ]
+  },
+  "Alegreya Sans": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      800,
+      900
+    ]
+  },
+  "Alegreya Sans SC": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      800,
+      900
+    ]
+  },
+  "Aleo": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Alex Brush": {
+    "weight": [
+      400
+    ]
+  },
+  "Alfa Slab One": {
+    "weight": [
+      400
+    ]
+  },
+  "Alice": {
+    "weight": [
+      400
+    ]
+  },
+  "Alike": {
+    "weight": [
+      400
+    ]
+  },
+  "Alike Angular": {
+    "weight": [
+      400
+    ]
+  },
+  "Allan": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Allerta": {
+    "weight": [
+      400
+    ]
+  },
+  "Allerta Stencil": {
+    "weight": [
+      400
+    ]
+  },
+  "Allison": {
+    "weight": [
+      400
+    ]
+  },
+  "Allura": {
+    "weight": [
+      400
+    ]
+  },
+  "Almarai": {
+    "weight": [
+      300,
+      400,
+      700,
+      800
+    ]
+  },
+  "Almendra": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Almendra Display": {
+    "weight": [
+      400
+    ]
+  },
+  "Almendra SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Alumni Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Amarante": {
+    "weight": [
+      400
+    ]
+  },
+  "Amaranth": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Amatic SC": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Amethysta": {
+    "weight": [
+      400
+    ]
+  },
+  "Amiko": {
+    "weight": [
+      400,
+      600,
+      700
+    ]
+  },
+  "Amiri": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Amita": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Anaheim": {
+    "weight": [
+      400
+    ]
+  },
+  "Andada Pro": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Andika": {
+    "weight": [
+      400
+    ]
+  },
+  "Andika New Basic": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Angkor": {
+    "weight": [
+      400
+    ]
+  },
+  "Annie Use Your Telescope": {
+    "weight": [
+      400
+    ]
+  },
+  "Anonymous Pro": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Antic": {
+    "weight": [
+      400
+    ]
+  },
+  "Antic Didone": {
+    "weight": [
+      400
+    ]
+  },
+  "Antic Slab": {
+    "weight": [
+      400
+    ]
+  },
+  "Anton": {
+    "weight": [
+      400
+    ]
+  },
+  "Antonio": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Arapey": {
+    "weight": [
+      400
+    ]
+  },
+  "Arbutus": {
+    "weight": [
+      400
+    ]
+  },
+  "Arbutus Slab": {
+    "weight": [
+      400
+    ]
+  },
+  "Architects Daughter": {
+    "weight": [
+      400
+    ]
+  },
+  "Archivo": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Archivo Black": {
+    "weight": [
+      400
+    ]
+  },
+  "Archivo Narrow": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Are You Serious": {
+    "weight": [
+      400
+    ]
+  },
+  "Aref Ruqaa": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Arima Madurai": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      700,
+      800,
+      900
+    ]
+  },
+  "Arimo": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Arizonia": {
+    "weight": [
+      400
+    ]
+  },
+  "Armata": {
+    "weight": [
+      400
+    ]
+  },
+  "Arsenal": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Artifika": {
+    "weight": [
+      400
+    ]
+  },
+  "Arvo": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Arya": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Asap": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Asap Condensed": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Asar": {
+    "weight": [
+      400
+    ]
+  },
+  "Asset": {
+    "weight": [
+      400
+    ]
+  },
+  "Assistant": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Astloch": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Asul": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Athiti": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Atkinson Hyperlegible": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Atma": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Atomic Age": {
+    "weight": [
+      400
+    ]
+  },
+  "Aubrey": {
+    "weight": [
+      400
+    ]
+  },
+  "Audiowide": {
+    "weight": [
+      400
+    ]
+  },
+  "Autour One": {
+    "weight": [
+      400
+    ]
+  },
+  "Average": {
+    "weight": [
+      400
+    ]
+  },
+  "Average Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Averia Gruesa Libre": {
+    "weight": [
+      400
+    ]
+  },
+  "Averia Libre": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Averia Sans Libre": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Averia Serif Libre": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Azeret Mono": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "B612": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "B612 Mono": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Bad Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Bahiana": {
+    "weight": [
+      400
+    ]
+  },
+  "Bahianita": {
+    "weight": [
+      400
+    ]
+  },
+  "Bai Jamjuree": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Ballet": {
+    "weight": [
+      400
+    ]
+  },
+  "Baloo 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Bhai 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Bhaina 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Chettan 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Da 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Paaji 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Tamma 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Tammudu 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Baloo Thambi 2": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Balsamiq Sans": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Balthazar": {
+    "weight": [
+      400
+    ]
+  },
+  "Bangers": {
+    "weight": [
+      400
+    ]
+  },
+  "Barlow": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Barlow Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Barlow Semi Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Barriecito": {
+    "weight": [
+      400
+    ]
+  },
+  "Barrio": {
+    "weight": [
+      400
+    ]
+  },
+  "Basic": {
+    "weight": [
+      400
+    ]
+  },
+  "Baskervville": {
+    "weight": [
+      400
+    ]
+  },
+  "Battambang": {
+    "weight": [
+      100,
+      300,
+      400,
+      700,
+      900
+    ]
+  },
+  "Baumans": {
+    "weight": [
+      400
+    ]
+  },
+  "Bayon": {
+    "weight": [
+      400
+    ]
+  },
+  "Be Vietnam": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Be Vietnam Pro": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Bebas Neue": {
+    "weight": [
+      400
+    ]
+  },
+  "Belgrano": {
+    "weight": [
+      400
+    ]
+  },
+  "Bellefair": {
+    "weight": [
+      400
+    ]
+  },
+  "Belleza": {
+    "weight": [
+      400
+    ]
+  },
+  "Bellota": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Bellota Text": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "BenchNine": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Benne": {
+    "weight": [
+      400
+    ]
+  },
+  "Bentham": {
+    "weight": [
+      400
+    ]
+  },
+  "Berkshire Swash": {
+    "weight": [
+      400
+    ]
+  },
+  "Besley": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Beth Ellen": {
+    "weight": [
+      400
+    ]
+  },
+  "Bevan": {
+    "weight": [
+      400
+    ]
+  },
+  "Big Shoulders Display": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Big Shoulders Inline Display": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Big Shoulders Inline Text": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Big Shoulders Stencil Display": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Big Shoulders Stencil Text": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Big Shoulders Text": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Bigelow Rules": {
+    "weight": [
+      400
+    ]
+  },
+  "Bigshot One": {
+    "weight": [
+      400
+    ]
+  },
+  "Bilbo": {
+    "weight": [
+      400
+    ]
+  },
+  "Bilbo Swash Caps": {
+    "weight": [
+      400
+    ]
+  },
+  "BioRhyme": {
+    "weight": [
+      200,
+      300,
+      400,
+      700,
+      800
+    ]
+  },
+  "BioRhyme Expanded": {
+    "weight": [
+      200,
+      300,
+      400,
+      700,
+      800
+    ]
+  },
+  "Birthstone": {
+    "weight": [
+      400
+    ]
+  },
+  "Birthstone Bounce": {
+    "weight": [
+      400,
+      500
+    ]
+  },
+  "Biryani": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Bitter": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Black And White Picture": {
+    "weight": [
+      400
+    ]
+  },
+  "Black Han Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Black Ops One": {
+    "weight": [
+      400
+    ]
+  },
+  "Blinker": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Bodoni Moda": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Bokor": {
+    "weight": [
+      400
+    ]
+  },
+  "Bona Nova": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Bonbon": {
+    "weight": [
+      400
+    ]
+  },
+  "Bonheur Royale": {
+    "weight": [
+      400
+    ]
+  },
+  "Boogaloo": {
+    "weight": [
+      400
+    ]
+  },
+  "Bowlby One": {
+    "weight": [
+      400
+    ]
+  },
+  "Bowlby One SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Brawler": {
+    "weight": [
+      400
+    ]
+  },
+  "Bree Serif": {
+    "weight": [
+      400
+    ]
+  },
+  "Brygada 1918": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Bubblegum Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Bubbler One": {
+    "weight": [
+      400
+    ]
+  },
+  "Buda": {
+    "weight": [
+      300
+    ]
+  },
+  "Buenard": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Bungee": {
+    "weight": [
+      400
+    ]
+  },
+  "Bungee Hairline": {
+    "weight": [
+      400
+    ]
+  },
+  "Bungee Inline": {
+    "weight": [
+      400
+    ]
+  },
+  "Bungee Outline": {
+    "weight": [
+      400
+    ]
+  },
+  "Bungee Shade": {
+    "weight": [
+      400
+    ]
+  },
+  "Butcherman": {
+    "weight": [
+      400
+    ]
+  },
+  "Butterfly Kids": {
+    "weight": [
+      400
+    ]
+  },
+  "Cabin": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cabin Condensed": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cabin Sketch": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Caesar Dressing": {
+    "weight": [
+      400
+    ]
+  },
+  "Cagliostro": {
+    "weight": [
+      400
+    ]
+  },
+  "Cairo": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      900
+    ]
+  },
+  "Caladea": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Calistoga": {
+    "weight": [
+      400
+    ]
+  },
+  "Calligraffitti": {
+    "weight": [
+      400
+    ]
+  },
+  "Cambay": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Cambo": {
+    "weight": [
+      400
+    ]
+  },
+  "Candal": {
+    "weight": [
+      400
+    ]
+  },
+  "Cantarell": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Cantata One": {
+    "weight": [
+      400
+    ]
+  },
+  "Cantora One": {
+    "weight": [
+      400
+    ]
+  },
+  "Capriola": {
+    "weight": [
+      400
+    ]
+  },
+  "Caramel": {
+    "weight": [
+      400
+    ]
+  },
+  "Carattere": {
+    "weight": [
+      400
+    ]
+  },
+  "Cardo": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Carme": {
+    "weight": [
+      400
+    ]
+  },
+  "Carrois Gothic": {
+    "weight": [
+      400
+    ]
+  },
+  "Carrois Gothic SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Carter One": {
+    "weight": [
+      400
+    ]
+  },
+  "Castoro": {
+    "weight": [
+      400
+    ]
+  },
+  "Catamaran": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Caudex": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Caveat": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Caveat Brush": {
+    "weight": [
+      400
+    ]
+  },
+  "Cedarville Cursive": {
+    "weight": [
+      400
+    ]
+  },
+  "Ceviche One": {
+    "weight": [
+      400
+    ]
+  },
+  "Chakra Petch": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Changa": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Changa One": {
+    "weight": [
+      400
+    ]
+  },
+  "Chango": {
+    "weight": [
+      400
+    ]
+  },
+  "Charm": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Charmonman": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Chathura": {
+    "weight": [
+      100,
+      300,
+      400,
+      700,
+      800
+    ]
+  },
+  "Chau Philomene One": {
+    "weight": [
+      400
+    ]
+  },
+  "Chela One": {
+    "weight": [
+      400
+    ]
+  },
+  "Chelsea Market": {
+    "weight": [
+      400
+    ]
+  },
+  "Chenla": {
+    "weight": [
+      400
+    ]
+  },
+  "Cherish": {
+    "weight": [
+      400
+    ]
+  },
+  "Cherry Cream Soda": {
+    "weight": [
+      400
+    ]
+  },
+  "Cherry Swash": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Chewy": {
+    "weight": [
+      400
+    ]
+  },
+  "Chicle": {
+    "weight": [
+      400
+    ]
+  },
+  "Chilanka": {
+    "weight": [
+      400
+    ]
+  },
+  "Chivo": {
+    "weight": [
+      300,
+      400,
+      700,
+      900
+    ]
+  },
+  "Chonburi": {
+    "weight": [
+      400
+    ]
+  },
+  "Cinzel": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Cinzel Decorative": {
+    "weight": [
+      400,
+      700,
+      900
+    ]
+  },
+  "Clicker Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Coda": {
+    "weight": [
+      400,
+      800
+    ]
+  },
+  "Coda Caption": {
+    "weight": [
+      800
+    ]
+  },
+  "Codystar": {
+    "weight": [
+      300,
+      400
+    ]
+  },
+  "Coiny": {
+    "weight": [
+      400
+    ]
+  },
+  "Combo": {
+    "weight": [
+      400
+    ]
+  },
+  "Comfortaa": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Comic Neue": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Coming Soon": {
+    "weight": [
+      400
+    ]
+  },
+  "Commissioner": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Concert One": {
+    "weight": [
+      400
+    ]
+  },
+  "Condiment": {
+    "weight": [
+      400
+    ]
+  },
+  "Content": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Contrail One": {
+    "weight": [
+      400
+    ]
+  },
+  "Convergence": {
+    "weight": [
+      400
+    ]
+  },
+  "Cookie": {
+    "weight": [
+      400
+    ]
+  },
+  "Copse": {
+    "weight": [
+      400
+    ]
+  },
+  "Corben": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Cormorant": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cormorant Garamond": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cormorant Infant": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cormorant SC": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cormorant Unicase": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cormorant Upright": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Courgette": {
+    "weight": [
+      400
+    ]
+  },
+  "Courier Prime": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Cousine": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Coustard": {
+    "weight": [
+      400,
+      900
+    ]
+  },
+  "Covered By Your Grace": {
+    "weight": [
+      400
+    ]
+  },
+  "Crafty Girls": {
+    "weight": [
+      400
+    ]
+  },
+  "Creepster": {
+    "weight": [
+      400
+    ]
+  },
+  "Crete Round": {
+    "weight": [
+      400
+    ]
+  },
+  "Crimson Pro": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Crimson Text": {
+    "weight": [
+      400,
+      600,
+      700
+    ]
+  },
+  "Croissant One": {
+    "weight": [
+      400
+    ]
+  },
+  "Crushed": {
+    "weight": [
+      400
+    ]
+  },
+  "Cuprum": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Cute Font": {
+    "weight": [
+      400
+    ]
+  },
+  "Cutive": {
+    "weight": [
+      400
+    ]
+  },
+  "Cutive Mono": {
+    "weight": [
+      400
+    ]
+  },
+  "DM Mono": {
+    "weight": [
+      300,
+      400,
+      500
+    ]
+  },
+  "DM Sans": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "DM Serif Display": {
+    "weight": [
+      400
+    ]
+  },
+  "DM Serif Text": {
+    "weight": [
+      400
+    ]
+  },
+  "Damion": {
+    "weight": [
+      400
+    ]
+  },
+  "Dancing Script": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Dangrek": {
+    "weight": [
+      400
+    ]
+  },
+  "Darker Grotesque": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "David Libre": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "Dawning of a New Day": {
+    "weight": [
+      400
+    ]
+  },
+  "Days One": {
+    "weight": [
+      400
+    ]
+  },
+  "Dekko": {
+    "weight": [
+      400
+    ]
+  },
+  "Dela Gothic One": {
+    "weight": [
+      400
+    ]
+  },
+  "Delius": {
+    "weight": [
+      400
+    ]
+  },
+  "Delius Swash Caps": {
+    "weight": [
+      400
+    ]
+  },
+  "Delius Unicase": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Della Respira": {
+    "weight": [
+      400
+    ]
+  },
+  "Denk One": {
+    "weight": [
+      400
+    ]
+  },
+  "Devonshire": {
+    "weight": [
+      400
+    ]
+  },
+  "Dhurjati": {
+    "weight": [
+      400
+    ]
+  },
+  "Didact Gothic": {
+    "weight": [
+      400
+    ]
+  },
+  "Diplomata": {
+    "weight": [
+      400
+    ]
+  },
+  "Diplomata SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Do Hyeon": {
+    "weight": [
+      400
+    ]
+  },
+  "Dokdo": {
+    "weight": [
+      400
+    ]
+  },
+  "Domine": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Donegal One": {
+    "weight": [
+      400
+    ]
+  },
+  "Doppio One": {
+    "weight": [
+      400
+    ]
+  },
+  "Dorsa": {
+    "weight": [
+      400
+    ]
+  },
+  "Dosis": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "DotGothic16": {
+    "weight": [
+      400
+    ]
+  },
+  "Dr Sugiyama": {
+    "weight": [
+      400
+    ]
+  },
+  "Duru Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Dynalight": {
+    "weight": [
+      400
+    ]
+  },
+  "EB Garamond": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Eagle Lake": {
+    "weight": [
+      400
+    ]
+  },
+  "East Sea Dokdo": {
+    "weight": [
+      400
+    ]
+  },
+  "Eater": {
+    "weight": [
+      400
+    ]
+  },
+  "Economica": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Eczar": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "El Messiri": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Electrolize": {
+    "weight": [
+      400
+    ]
+  },
+  "Elsie": {
+    "weight": [
+      400,
+      900
+    ]
+  },
+  "Elsie Swash Caps": {
+    "weight": [
+      400,
+      900
+    ]
+  },
+  "Emblema One": {
+    "weight": [
+      400
+    ]
+  },
+  "Emilys Candy": {
+    "weight": [
+      400
+    ]
+  },
+  "Encode Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Encode Sans Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Encode Sans Expanded": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Encode Sans SC": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Encode Sans Semi Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Encode Sans Semi Expanded": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Engagement": {
+    "weight": [
+      400
+    ]
+  },
+  "Englebert": {
+    "weight": [
+      400
+    ]
+  },
+  "Enriqueta": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Ephesis": {
+    "weight": [
+      400
+    ]
+  },
+  "Epilogue": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Erica One": {
+    "weight": [
+      400
+    ]
+  },
+  "Esteban": {
+    "weight": [
+      400
+    ]
+  },
+  "Euphoria Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Ewert": {
+    "weight": [
+      400
+    ]
+  },
+  "Exo": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Exo 2": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Expletus Sans": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Explora": {
+    "weight": [
+      400
+    ]
+  },
+  "Fahkwang": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Fanwood Text": {
+    "weight": [
+      400
+    ]
+  },
+  "Farro": {
+    "weight": [
+      300,
+      400,
+      500,
+      700
+    ]
+  },
+  "Farsan": {
+    "weight": [
+      400
+    ]
+  },
+  "Fascinate": {
+    "weight": [
+      400
+    ]
+  },
+  "Fascinate Inline": {
+    "weight": [
+      400
+    ]
+  },
+  "Faster One": {
+    "weight": [
+      400
+    ]
+  },
+  "Fasthand": {
+    "weight": [
+      400
+    ]
+  },
+  "Fauna One": {
+    "weight": [
+      400
+    ]
+  },
+  "Faustina": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Federant": {
+    "weight": [
+      400
+    ]
+  },
+  "Federo": {
+    "weight": [
+      400
+    ]
+  },
+  "Felipa": {
+    "weight": [
+      400
+    ]
+  },
+  "Fenix": {
+    "weight": [
+      400
+    ]
+  },
+  "Festive": {
+    "weight": [
+      400
+    ]
+  },
+  "Finger Paint": {
+    "weight": [
+      400
+    ]
+  },
+  "Fira Code": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Fira Mono": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "Fira Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Fira Sans Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Fira Sans Extra Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Fjalla One": {
+    "weight": [
+      400
+    ]
+  },
+  "Fjord One": {
+    "weight": [
+      400
+    ]
+  },
+  "Flamenco": {
+    "weight": [
+      300,
+      400
+    ]
+  },
+  "Flavors": {
+    "weight": [
+      400
+    ]
+  },
+  "Fleur De Leah": {
+    "weight": [
+      400
+    ]
+  },
+  "Fondamento": {
+    "weight": [
+      400
+    ]
+  },
+  "Fontdiner Swanky": {
+    "weight": [
+      400
+    ]
+  },
+  "Forum": {
+    "weight": [
+      400
+    ]
+  },
+  "Francois One": {
+    "weight": [
+      400
+    ]
+  },
+  "Frank Ruhl Libre": {
+    "weight": [
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Fraunces": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Freckle Face": {
+    "weight": [
+      400
+    ]
+  },
+  "Fredericka the Great": {
+    "weight": [
+      400
+    ]
+  },
+  "Fredoka One": {
+    "weight": [
+      400
+    ]
+  },
+  "Freehand": {
+    "weight": [
+      400
+    ]
+  },
+  "Fresca": {
+    "weight": [
+      400
+    ]
+  },
+  "Frijole": {
+    "weight": [
+      400
+    ]
+  },
+  "Fruktur": {
+    "weight": [
+      400
+    ]
+  },
+  "Fugaz One": {
+    "weight": [
+      400
+    ]
+  },
+  "Fuggles": {
+    "weight": [
+      400
+    ]
+  },
+  "GFS Didot": {
+    "weight": [
+      400
+    ]
+  },
+  "GFS Neohellenic": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Gabriela": {
+    "weight": [
+      400
+    ]
+  },
+  "Gaegu": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Gafata": {
+    "weight": [
+      400
+    ]
+  },
+  "Galada": {
+    "weight": [
+      400
+    ]
+  },
+  "Galdeano": {
+    "weight": [
+      400
+    ]
+  },
+  "Galindo": {
+    "weight": [
+      400
+    ]
+  },
+  "Gamja Flower": {
+    "weight": [
+      400
+    ]
+  },
+  "Gayathri": {
+    "weight": [
+      100,
+      400,
+      700
+    ]
+  },
+  "Gelasio": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Gemunu Libre": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Gentium Basic": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Gentium Book Basic": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Geo": {
+    "weight": [
+      400
+    ]
+  },
+  "Georama": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Geostar": {
+    "weight": [
+      400
+    ]
+  },
+  "Geostar Fill": {
+    "weight": [
+      400
+    ]
+  },
+  "Germania One": {
+    "weight": [
+      400
+    ]
+  },
+  "Gideon Roman": {
+    "weight": [
+      400
+    ]
+  },
+  "Gidugu": {
+    "weight": [
+      400
+    ]
+  },
+  "Gilda Display": {
+    "weight": [
+      400
+    ]
+  },
+  "Girassol": {
+    "weight": [
+      400
+    ]
+  },
+  "Give You Glory": {
+    "weight": [
+      400
+    ]
+  },
+  "Glass Antiqua": {
+    "weight": [
+      400
+    ]
+  },
+  "Glegoo": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Gloria Hallelujah": {
+    "weight": [
+      400
+    ]
+  },
+  "Glory": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Gluten": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Goblin One": {
+    "weight": [
+      400
+    ]
+  },
+  "Gochi Hand": {
+    "weight": [
+      400
+    ]
+  },
+  "Goldman": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Gorditas": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Gothic A1": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Gotu": {
+    "weight": [
+      400
+    ]
+  },
+  "Goudy Bookletter 1911": {
+    "weight": [
+      400
+    ]
+  },
+  "Gowun Batang": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Gowun Dodum": {
+    "weight": [
+      400
+    ]
+  },
+  "Graduate": {
+    "weight": [
+      400
+    ]
+  },
+  "Grand Hotel": {
+    "weight": [
+      400
+    ]
+  },
+  "Grandstander": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Gravitas One": {
+    "weight": [
+      400
+    ]
+  },
+  "Great Vibes": {
+    "weight": [
+      400
+    ]
+  },
+  "Grechen Fuemen": {
+    "weight": [
+      400
+    ]
+  },
+  "Grenze": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Grenze Gotisch": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Grey Qo": {
+    "weight": [
+      400
+    ]
+  },
+  "Griffy": {
+    "weight": [
+      400
+    ]
+  },
+  "Gruppo": {
+    "weight": [
+      400
+    ]
+  },
+  "Gudea": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Gugi": {
+    "weight": [
+      400
+    ]
+  },
+  "Gupter": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "Gurajada": {
+    "weight": [
+      400
+    ]
+  },
+  "Habibi": {
+    "weight": [
+      400
+    ]
+  },
+  "Hachi Maru Pop": {
+    "weight": [
+      400
+    ]
+  },
+  "Hahmlet": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Halant": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Hammersmith One": {
+    "weight": [
+      400
+    ]
+  },
+  "Hanalei": {
+    "weight": [
+      400
+    ]
+  },
+  "Hanalei Fill": {
+    "weight": [
+      400
+    ]
+  },
+  "Handlee": {
+    "weight": [
+      400
+    ]
+  },
+  "Hanuman": {
+    "weight": [
+      100,
+      300,
+      400,
+      700,
+      900
+    ]
+  },
+  "Happy Monkey": {
+    "weight": [
+      400
+    ]
+  },
+  "Harmattan": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Headland One": {
+    "weight": [
+      400
+    ]
+  },
+  "Heebo": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Henny Penny": {
+    "weight": [
+      400
+    ]
+  },
+  "Hepta Slab": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Herr Von Muellerhoff": {
+    "weight": [
+      400
+    ]
+  },
+  "Hi Melody": {
+    "weight": [
+      400
+    ]
+  },
+  "Hina Mincho": {
+    "weight": [
+      400
+    ]
+  },
+  "Hind": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Hind Guntur": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Hind Madurai": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Hind Siliguri": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Hind Vadodara": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Holtwood One SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Homemade Apple": {
+    "weight": [
+      400
+    ]
+  },
+  "Homenaje": {
+    "weight": [
+      400
+    ]
+  },
+  "IBM Plex Mono": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans Arabic": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans Devanagari": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans Hebrew": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans KR": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans Thai": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Sans Thai Looped": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IBM Plex Serif": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "IM Fell DW Pica": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell DW Pica SC": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell Double Pica": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell Double Pica SC": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell English": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell English SC": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell French Canon": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell French Canon SC": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell Great Primer": {
+    "weight": [
+      400
+    ]
+  },
+  "IM Fell Great Primer SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Ibarra Real Nova": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Iceberg": {
+    "weight": [
+      400
+    ]
+  },
+  "Iceland": {
+    "weight": [
+      400
+    ]
+  },
+  "Imbue": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Imprima": {
+    "weight": [
+      400
+    ]
+  },
+  "Inconsolata": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Inder": {
+    "weight": [
+      400
+    ]
+  },
+  "Indie Flower": {
+    "weight": [
+      400
+    ]
+  },
+  "Inika": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Inknut Antiqua": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Inria Sans": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Inria Serif": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Inter": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Irish Grover": {
+    "weight": [
+      400
+    ]
+  },
+  "Istok Web": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Italiana": {
+    "weight": [
+      400
+    ]
+  },
+  "Italianno": {
+    "weight": [
+      400
+    ]
+  },
+  "Itim": {
+    "weight": [
+      400
+    ]
+  },
+  "Jacques Francois": {
+    "weight": [
+      400
+    ]
+  },
+  "Jacques Francois Shadow": {
+    "weight": [
+      400
+    ]
+  },
+  "Jaldi": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "JetBrains Mono": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Jim Nightshade": {
+    "weight": [
+      400
+    ]
+  },
+  "Jockey One": {
+    "weight": [
+      400
+    ]
+  },
+  "Jolly Lodger": {
+    "weight": [
+      400
+    ]
+  },
+  "Jomhuria": {
+    "weight": [
+      400
+    ]
+  },
+  "Jomolhari": {
+    "weight": [
+      400
+    ]
+  },
+  "Josefin Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Josefin Slab": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Jost": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Joti One": {
+    "weight": [
+      400
+    ]
+  },
+  "Jua": {
+    "weight": [
+      400
+    ]
+  },
+  "Judson": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Julee": {
+    "weight": [
+      400
+    ]
+  },
+  "Julius Sans One": {
+    "weight": [
+      400
+    ]
+  },
+  "Junge": {
+    "weight": [
+      400
+    ]
+  },
+  "Jura": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Just Another Hand": {
+    "weight": [
+      400
+    ]
+  },
+  "Just Me Again Down Here": {
+    "weight": [
+      400
+    ]
+  },
+  "K2D": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Kadwa": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Kaisei Decol": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "Kaisei HarunoUmi": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "Kaisei Opti": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "Kaisei Tokumin": {
+    "weight": [
+      400,
+      500,
+      700,
+      800
+    ]
+  },
+  "Kalam": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Kameron": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Kanit": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Kantumruy": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Karantina": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Karla": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Karma": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Katibeh": {
+    "weight": [
+      400
+    ]
+  },
+  "Kaushan Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Kavivanar": {
+    "weight": [
+      400
+    ]
+  },
+  "Kavoon": {
+    "weight": [
+      400
+    ]
+  },
+  "Kdam Thmor": {
+    "weight": [
+      400
+    ]
+  },
+  "Keania One": {
+    "weight": [
+      400
+    ]
+  },
+  "Kelly Slab": {
+    "weight": [
+      400
+    ]
+  },
+  "Kenia": {
+    "weight": [
+      400
+    ]
+  },
+  "Khand": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Khmer": {
+    "weight": [
+      400
+    ]
+  },
+  "Khula": {
+    "weight": [
+      300,
+      400,
+      600,
+      700,
+      800
+    ]
+  },
+  "Kirang Haerang": {
+    "weight": [
+      400
+    ]
+  },
+  "Kite One": {
+    "weight": [
+      400
+    ]
+  },
+  "Kiwi Maru": {
+    "weight": [
+      300,
+      400,
+      500
+    ]
+  },
+  "Klee One": {
+    "weight": [
+      400,
+      600
+    ]
+  },
+  "Knewave": {
+    "weight": [
+      400
+    ]
+  },
+  "KoHo": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Kodchasan": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Koh Santepheap": {
+    "weight": [
+      100,
+      300,
+      400,
+      700,
+      900
+    ]
+  },
+  "Kosugi": {
+    "weight": [
+      400
+    ]
+  },
+  "Kosugi Maru": {
+    "weight": [
+      400
+    ]
+  },
+  "Kotta One": {
+    "weight": [
+      400
+    ]
+  },
+  "Koulen": {
+    "weight": [
+      400
+    ]
+  },
+  "Kranky": {
+    "weight": [
+      400
+    ]
+  },
+  "Kreon": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Kristi": {
+    "weight": [
+      400
+    ]
+  },
+  "Krona One": {
+    "weight": [
+      400
+    ]
+  },
+  "Krub": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Kufam": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Kulim Park": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700
+    ]
+  },
+  "Kumar One": {
+    "weight": [
+      400
+    ]
+  },
+  "Kumar One Outline": {
+    "weight": [
+      400
+    ]
+  },
+  "Kumbh Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Kurale": {
+    "weight": [
+      400
+    ]
+  },
+  "La Belle Aurore": {
+    "weight": [
+      400
+    ]
+  },
+  "Lacquer": {
+    "weight": [
+      400
+    ]
+  },
+  "Laila": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Lakki Reddy": {
+    "weight": [
+      400
+    ]
+  },
+  "Lalezar": {
+    "weight": [
+      400
+    ]
+  },
+  "Lancelot": {
+    "weight": [
+      400
+    ]
+  },
+  "Langar": {
+    "weight": [
+      400
+    ]
+  },
+  "Lateef": {
+    "weight": [
+      400
+    ]
+  },
+  "Lato": {
+    "weight": [
+      100,
+      300,
+      400,
+      700,
+      900
+    ]
+  },
+  "League Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Leckerli One": {
+    "weight": [
+      400
+    ]
+  },
+  "Ledger": {
+    "weight": [
+      400
+    ]
+  },
+  "Lekton": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Lemon": {
+    "weight": [
+      400
+    ]
+  },
+  "Lemonada": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Lexend": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Lexend Deca": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Lexend Exa": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Lexend Giga": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Lexend Mega": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Lexend Peta": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Lexend Tera": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Lexend Zetta": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Libre Barcode 128": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Barcode 128 Text": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Barcode 39": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Barcode 39 Extended": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Barcode 39 Extended Text": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Barcode 39 Text": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Barcode EAN13 Text": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Baskerville": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Libre Caslon Display": {
+    "weight": [
+      400
+    ]
+  },
+  "Libre Caslon Text": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Libre Franklin": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Life Savers": {
+    "weight": [
+      400,
+      700,
+      800
+    ]
+  },
+  "Lilita One": {
+    "weight": [
+      400
+    ]
+  },
+  "Lily Script One": {
+    "weight": [
+      400
+    ]
+  },
+  "Limelight": {
+    "weight": [
+      400
+    ]
+  },
+  "Linden Hill": {
+    "weight": [
+      400
+    ]
+  },
+  "Literata": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Liu Jian Mao Cao": {
+    "weight": [
+      400
+    ]
+  },
+  "Livvic": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ]
+  },
+  "Lobster": {
+    "weight": [
+      400
+    ]
+  },
+  "Lobster Two": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Londrina Outline": {
+    "weight": [
+      400
+    ]
+  },
+  "Londrina Shadow": {
+    "weight": [
+      400
+    ]
+  },
+  "Londrina Sketch": {
+    "weight": [
+      400
+    ]
+  },
+  "Londrina Solid": {
+    "weight": [
+      100,
+      300,
+      400,
+      900
+    ]
+  },
+  "Long Cang": {
+    "weight": [
+      400
+    ]
+  },
+  "Lora": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Love Ya Like A Sister": {
+    "weight": [
+      400
+    ]
+  },
+  "Loved by the King": {
+    "weight": [
+      400
+    ]
+  },
+  "Lovers Quarrel": {
+    "weight": [
+      400
+    ]
+  },
+  "Luckiest Guy": {
+    "weight": [
+      400
+    ]
+  },
+  "Lusitana": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Lustria": {
+    "weight": [
+      400
+    ]
+  },
+  "M PLUS 1p": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      800,
+      900
+    ]
+  },
+  "M PLUS Rounded 1c": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      800,
+      900
+    ]
+  },
+  "Ma Shan Zheng": {
+    "weight": [
+      400
+    ]
+  },
+  "Macondo": {
+    "weight": [
+      400
+    ]
+  },
+  "Macondo Swash Caps": {
+    "weight": [
+      400
+    ]
+  },
+  "Mada": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ]
+  },
+  "Magra": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Maiden Orange": {
+    "weight": [
+      400
+    ]
+  },
+  "Maitree": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Major Mono Display": {
+    "weight": [
+      400
+    ]
+  },
+  "Mako": {
+    "weight": [
+      400
+    ]
+  },
+  "Mali": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Mallanna": {
+    "weight": [
+      400
+    ]
+  },
+  "Mandali": {
+    "weight": [
+      400
+    ]
+  },
+  "Manjari": {
+    "weight": [
+      100,
+      400,
+      700
+    ]
+  },
+  "Manrope": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Mansalva": {
+    "weight": [
+      400
+    ]
+  },
+  "Manuale": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Marcellus": {
+    "weight": [
+      400
+    ]
+  },
+  "Marcellus SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Marck Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Margarine": {
+    "weight": [
+      400
+    ]
+  },
+  "Markazi Text": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Marko One": {
+    "weight": [
+      400
+    ]
+  },
+  "Marmelad": {
+    "weight": [
+      400
+    ]
+  },
+  "Martel": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Martel Sans": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Marvel": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Mate": {
+    "weight": [
+      400
+    ]
+  },
+  "Mate SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Material Icons": {
+    "weight": [
+      400
+    ]
+  },
+  "Maven Pro": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "McLaren": {
+    "weight": [
+      400
+    ]
+  },
+  "Meddon": {
+    "weight": [
+      400
+    ]
+  },
+  "MedievalSharp": {
+    "weight": [
+      400
+    ]
+  },
+  "Medula One": {
+    "weight": [
+      400
+    ]
+  },
+  "Meera Inimai": {
+    "weight": [
+      400
+    ]
+  },
+  "Megrim": {
+    "weight": [
+      400
+    ]
+  },
+  "Meie Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Merienda": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Merienda One": {
+    "weight": [
+      400
+    ]
+  },
+  "Merriweather": {
+    "weight": [
+      300,
+      400,
+      700,
+      900
+    ]
+  },
+  "Merriweather Sans": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Metal": {
+    "weight": [
+      400
+    ]
+  },
+  "Metal Mania": {
+    "weight": [
+      400
+    ]
+  },
+  "Metamorphous": {
+    "weight": [
+      400
+    ]
+  },
+  "Metrophobic": {
+    "weight": [
+      400
+    ]
+  },
+  "Michroma": {
+    "weight": [
+      400
+    ]
+  },
+  "Milonga": {
+    "weight": [
+      400
+    ]
+  },
+  "Miltonian": {
+    "weight": [
+      400
+    ]
+  },
+  "Miltonian Tattoo": {
+    "weight": [
+      400
+    ]
+  },
+  "Mina": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Miniver": {
+    "weight": [
+      400
+    ]
+  },
+  "Miriam Libre": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Mirza": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Miss Fajardose": {
+    "weight": [
+      400
+    ]
+  },
+  "Mitr": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Modak": {
+    "weight": [
+      400
+    ]
+  },
+  "Modern Antiqua": {
+    "weight": [
+      400
+    ]
+  },
+  "Mogra": {
+    "weight": [
+      400
+    ]
+  },
+  "Molengo": {
+    "weight": [
+      400
+    ]
+  },
+  "Monda": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Monofett": {
+    "weight": [
+      400
+    ]
+  },
+  "Monoton": {
+    "weight": [
+      400
+    ]
+  },
+  "Monsieur La Doulaise": {
+    "weight": [
+      400
+    ]
+  },
+  "Montaga": {
+    "weight": [
+      400
+    ]
+  },
+  "MonteCarlo": {
+    "weight": [
+      400
+    ]
+  },
+  "Montez": {
+    "weight": [
+      400
+    ]
+  },
+  "Montserrat": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Montserrat Alternates": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Montserrat Subrayada": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Moul": {
+    "weight": [
+      400
+    ]
+  },
+  "Moulpali": {
+    "weight": [
+      400
+    ]
+  },
+  "Mountains of Christmas": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Mouse Memoirs": {
+    "weight": [
+      400
+    ]
+  },
+  "Mr Bedfort": {
+    "weight": [
+      400
+    ]
+  },
+  "Mr Dafoe": {
+    "weight": [
+      400
+    ]
+  },
+  "Mr De Haviland": {
+    "weight": [
+      400
+    ]
+  },
+  "Mrs Saint Delafield": {
+    "weight": [
+      400
+    ]
+  },
+  "Mrs Sheppards": {
+    "weight": [
+      400
+    ]
+  },
+  "Mukta": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Mukta Mahee": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Mukta Malar": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Mukta Vaani": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Mulish": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "MuseoModerno": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Mystery Quest": {
+    "weight": [
+      400
+    ]
+  },
+  "NTR": {
+    "weight": [
+      400
+    ]
+  },
+  "Nanum Brush Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Nanum Gothic": {
+    "weight": [
+      400,
+      700,
+      800
+    ]
+  },
+  "Nanum Gothic Coding": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Nanum Myeongjo": {
+    "weight": [
+      400,
+      700,
+      800
+    ]
+  },
+  "Nanum Pen Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Nerko One": {
+    "weight": [
+      400
+    ]
+  },
+  "Neucha": {
+    "weight": [
+      400
+    ]
+  },
+  "Neuton": {
+    "weight": [
+      200,
+      300,
+      400,
+      700,
+      800
+    ]
+  },
+  "New Rocker": {
+    "weight": [
+      400
+    ]
+  },
+  "New Tegomin": {
+    "weight": [
+      400
+    ]
+  },
+  "News Cycle": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Newsreader": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Niconne": {
+    "weight": [
+      400
+    ]
+  },
+  "Niramit": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Nixie One": {
+    "weight": [
+      400
+    ]
+  },
+  "Nobile": {
+    "weight": [
+      400,
+      500,
+      700
+    ]
+  },
+  "Nokora": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Norican": {
+    "weight": [
+      400
+    ]
+  },
+  "Nosifer": {
+    "weight": [
+      400
+    ]
+  },
+  "Notable": {
+    "weight": [
+      400
+    ]
+  },
+  "Nothing You Could Do": {
+    "weight": [
+      400
+    ]
+  },
+  "Noticia Text": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Noto Kufi Arabic": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Music": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Naskh Arabic": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Nastaliq Urdu": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Noto Rashi Hebrew": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Noto Sans Adlam": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Adlam Unjoined": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Anatolian Hieroglyphs": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Arabic": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Armenian": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Avestan": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Balinese": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Bamum": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Bassa Vah": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Batak": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Bengali": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Bhaiksuki": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Brahmi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Buginese": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Buhid": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Canadian Aboriginal": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Carian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Caucasian Albanian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Chakma": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Cham": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Cherokee": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Coptic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Cuneiform": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Cypriot": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Deseret": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Devanagari": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Display": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Duployan": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Egyptian Hieroglyphs": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Elbasan": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Elymaic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Georgian": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Glagolitic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Gothic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Grantha": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Gujarati": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Gunjala Gondi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Gurmukhi": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans HK": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Noto Sans Hanifi Rohingya": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Hanunoo": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Hatran": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Hebrew": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Imperial Aramaic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Indic Siyaq Numbers": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Inscriptional Pahlavi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Inscriptional Parthian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans JP": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Noto Sans Javanese": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Noto Sans KR": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Noto Sans Kaithi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Kannada": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Kayah Li": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Kharoshthi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Khmer": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Khojki": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Khudawadi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Lao": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Lepcha": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Limbu": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Linear A": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Linear B": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Lisu": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Lycian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Lydian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Mahajani": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Malayalam": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Mandaic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Manichaean": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Marchen": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Masaram Gondi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Math": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Mayan Numerals": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Medefaidrin": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Meroitic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Miao": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Modi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Mongolian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Mono": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Mro": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Multani": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Myanmar": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans N Ko": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Nabataean": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans New Tai Lue": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Newa": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Nushu": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Ogham": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Ol Chiki": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Old Hungarian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Old Italic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Old North Arabian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Old Permic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Old Persian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Old Sogdian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Old South Arabian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Old Turkic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Oriya": {
+    "weight": [
+      100,
+      400,
+      700,
+      900
+    ]
+  },
+  "Noto Sans Osage": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Osmanya": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Pahawh Hmong": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Palmyrene": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Pau Cin Hau": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Phags Pa": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Phoenician": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Psalter Pahlavi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Rejang": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Runic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans SC": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Noto Sans Samaritan": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Saurashtra": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Sharada": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Shavian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Siddham": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Sinhala": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Sogdian": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Sora Sompeng": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Soyombo": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Sundanese": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Syloti Nagri": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Symbols": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Symbols 2": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Syriac": {
+    "weight": [
+      100,
+      400,
+      900
+    ]
+  },
+  "Noto Sans TC": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Noto Sans Tagalog": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Tagbanwa": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Tai Le": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Tai Tham": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Sans Tai Viet": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Takri": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Tamil": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Tamil Supplement": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Telugu": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Thaana": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Thai": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Thai Looped": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Sans Tifinagh": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Tirhuta": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Ugaritic": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Vai": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Wancho": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Warang Citi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Yi": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Sans Zanabazar Square": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Serif": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Noto Serif Ahom": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Serif Armenian": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Balinese": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Serif Bengali": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Devanagari": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Display": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Dogra": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Serif Ethiopic": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Georgian": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Grantha": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Serif Gujarati": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Gurmukhi": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Hebrew": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif JP": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ]
+  },
+  "Noto Serif KR": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ]
+  },
+  "Noto Serif Kannada": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Khmer": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Lao": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Malayalam": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Myanmar": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Nyiakeng Puachue Hmong": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Serif SC": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ]
+  },
+  "Noto Serif Sinhala": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif TC": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ]
+  },
+  "Noto Serif Tamil": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Tangut": {
+    "weight": [
+      400
+    ]
+  },
+  "Noto Serif Telugu": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Thai": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Tibetan": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Noto Serif Yezidi": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Noto Traditional Nushu": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Cut": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Flat": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Mono": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Oval": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Round": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Slim": {
+    "weight": [
+      400
+    ]
+  },
+  "Nova Square": {
+    "weight": [
+      400
+    ]
+  },
+  "Numans": {
+    "weight": [
+      400
+    ]
+  },
+  "Nunito": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Nunito Sans": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Odibee Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Odor Mean Chey": {
+    "weight": [
+      400
+    ]
+  },
+  "Offside": {
+    "weight": [
+      400
+    ]
+  },
+  "Oi": {
+    "weight": [
+      400
+    ]
+  },
+  "Old Standard TT": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Oldenburg": {
+    "weight": [
+      400
+    ]
+  },
+  "Oleo Script": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Oleo Script Swash Caps": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Open Sans": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Open Sans Condensed": {
+    "weight": [
+      300,
+      700
+    ]
+  },
+  "Oranienbaum": {
+    "weight": [
+      400
+    ]
+  },
+  "Orbitron": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Oregano": {
+    "weight": [
+      400
+    ]
+  },
+  "Orelega One": {
+    "weight": [
+      400
+    ]
+  },
+  "Orienta": {
+    "weight": [
+      400
+    ]
+  },
+  "Original Surfer": {
+    "weight": [
+      400
+    ]
+  },
+  "Oswald": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Otomanopee One": {
+    "weight": [
+      400
+    ]
+  },
+  "Over the Rainbow": {
+    "weight": [
+      400
+    ]
+  },
+  "Overlock": {
+    "weight": [
+      400,
+      700,
+      900
+    ]
+  },
+  "Overlock SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Overpass": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Overpass Mono": {
+    "weight": [
+      300,
+      400,
+      600,
+      700
+    ]
+  },
+  "Ovo": {
+    "weight": [
+      400
+    ]
+  },
+  "Oxanium": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Oxygen": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Oxygen Mono": {
+    "weight": [
+      400
+    ]
+  },
+  "PT Mono": {
+    "weight": [
+      400
+    ]
+  },
+  "PT Sans": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "PT Sans Caption": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "PT Sans Narrow": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "PT Serif": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "PT Serif Caption": {
+    "weight": [
+      400
+    ]
+  },
+  "Pacifico": {
+    "weight": [
+      400
+    ]
+  },
+  "Padauk": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Palanquin": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Palanquin Dark": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Palette Mosaic": {
+    "weight": [
+      400
+    ]
+  },
+  "Pangolin": {
+    "weight": [
+      400
+    ]
+  },
+  "Paprika": {
+    "weight": [
+      400
+    ]
+  },
+  "Parisienne": {
+    "weight": [
+      400
+    ]
+  },
+  "Passero One": {
+    "weight": [
+      400
+    ]
+  },
+  "Passion One": {
+    "weight": [
+      400,
+      700,
+      900
+    ]
+  },
+  "Pathway Gothic One": {
+    "weight": [
+      400
+    ]
+  },
+  "Patrick Hand": {
+    "weight": [
+      400
+    ]
+  },
+  "Patrick Hand SC": {
+    "weight": [
+      400
+    ]
+  },
+  "Pattaya": {
+    "weight": [
+      400
+    ]
+  },
+  "Patua One": {
+    "weight": [
+      400
+    ]
+  },
+  "Pavanam": {
+    "weight": [
+      400
+    ]
+  },
+  "Paytone One": {
+    "weight": [
+      400
+    ]
+  },
+  "Peddana": {
+    "weight": [
+      400
+    ]
+  },
+  "Peralta": {
+    "weight": [
+      400
+    ]
+  },
+  "Permanent Marker": {
+    "weight": [
+      400
+    ]
+  },
+  "Petit Formal Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Petrona": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Philosopher": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Piazzolla": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Piedra": {
+    "weight": [
+      400
+    ]
+  },
+  "Pinyon Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Pirata One": {
+    "weight": [
+      400
+    ]
+  },
+  "Plaster": {
+    "weight": [
+      400
+    ]
+  },
+  "Play": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Playball": {
+    "weight": [
+      400
+    ]
+  },
+  "Playfair Display": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Playfair Display SC": {
+    "weight": [
+      400,
+      700,
+      900
+    ]
+  },
+  "Podkova": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Poiret One": {
+    "weight": [
+      400
+    ]
+  },
+  "Poller One": {
+    "weight": [
+      400
+    ]
+  },
+  "Poly": {
+    "weight": [
+      400
+    ]
+  },
+  "Pompiere": {
+    "weight": [
+      400
+    ]
+  },
+  "Pontano Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Poor Story": {
+    "weight": [
+      400
+    ]
+  },
+  "Poppins": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Port Lligat Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Port Lligat Slab": {
+    "weight": [
+      400
+    ]
+  },
+  "Potta One": {
+    "weight": [
+      400
+    ]
+  },
+  "Pragati Narrow": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Prata": {
+    "weight": [
+      400
+    ]
+  },
+  "Preahvihear": {
+    "weight": [
+      400
+    ]
+  },
+  "Press Start 2P": {
+    "weight": [
+      400
+    ]
+  },
+  "Pridi": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Princess Sofia": {
+    "weight": [
+      400
+    ]
+  },
+  "Prociono": {
+    "weight": [
+      400
+    ]
+  },
+  "Prompt": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Prosto One": {
+    "weight": [
+      400
+    ]
+  },
+  "Proza Libre": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Public Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Puritan": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Purple Purse": {
+    "weight": [
+      400
+    ]
+  },
+  "Qahiri": {
+    "weight": [
+      400
+    ]
+  },
+  "Quando": {
+    "weight": [
+      400
+    ]
+  },
+  "Quantico": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Quattrocento": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Quattrocento Sans": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Questrial": {
+    "weight": [
+      400
+    ]
+  },
+  "Quicksand": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Quintessential": {
+    "weight": [
+      400
+    ]
+  },
+  "Qwigley": {
+    "weight": [
+      400
+    ]
+  },
+  "Racing Sans One": {
+    "weight": [
+      400
+    ]
+  },
+  "Radley": {
+    "weight": [
+      400
+    ]
+  },
+  "Rajdhani": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Rakkas": {
+    "weight": [
+      400
+    ]
+  },
+  "Raleway": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Raleway Dots": {
+    "weight": [
+      400
+    ]
+  },
+  "Ramabhadra": {
+    "weight": [
+      400
+    ]
+  },
+  "Ramaraja": {
+    "weight": [
+      400
+    ]
+  },
+  "Rambla": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Rammetto One": {
+    "weight": [
+      400
+    ]
+  },
+  "Rampart One": {
+    "weight": [
+      400
+    ]
+  },
+  "Ranchers": {
+    "weight": [
+      400
+    ]
+  },
+  "Rancho": {
+    "weight": [
+      400
+    ]
+  },
+  "Ranga": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Rasa": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Rationale": {
+    "weight": [
+      400
+    ]
+  },
+  "Ravi Prakash": {
+    "weight": [
+      400
+    ]
+  },
+  "Recursive": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Red Hat Display": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Red Hat Text": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Red Rose": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Redressed": {
+    "weight": [
+      400
+    ]
+  },
+  "Reem Kufi": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Reenie Beanie": {
+    "weight": [
+      400
+    ]
+  },
+  "Reggae One": {
+    "weight": [
+      400
+    ]
+  },
+  "Revalia": {
+    "weight": [
+      400
+    ]
+  },
+  "Rhodium Libre": {
+    "weight": [
+      400
+    ]
+  },
+  "Ribeye": {
+    "weight": [
+      400
+    ]
+  },
+  "Ribeye Marrow": {
+    "weight": [
+      400
+    ]
+  },
+  "Righteous": {
+    "weight": [
+      400
+    ]
+  },
+  "Risque": {
+    "weight": [
+      400
+    ]
+  },
+  "Roboto": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Roboto Condensed": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Roboto Mono": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Roboto Slab": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Rochester": {
+    "weight": [
+      400
+    ]
+  },
+  "Rock Salt": {
+    "weight": [
+      400
+    ]
+  },
+  "RocknRoll One": {
+    "weight": [
+      400
+    ]
+  },
+  "Rokkitt": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Romanesco": {
+    "weight": [
+      400
+    ]
+  },
+  "Ropa Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Rosario": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Rosarivo": {
+    "weight": [
+      400
+    ]
+  },
+  "Rouge Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Rowdies": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Rozha One": {
+    "weight": [
+      400
+    ]
+  },
+  "Rubik": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Rubik Beastly": {
+    "weight": [
+      400
+    ]
+  },
+  "Rubik Mono One": {
+    "weight": [
+      400
+    ]
+  },
+  "Ruda": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Rufina": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Ruge Boogie": {
+    "weight": [
+      400
+    ]
+  },
+  "Ruluko": {
+    "weight": [
+      400
+    ]
+  },
+  "Rum Raisin": {
+    "weight": [
+      400
+    ]
+  },
+  "Ruslan Display": {
+    "weight": [
+      400
+    ]
+  },
+  "Russo One": {
+    "weight": [
+      400
+    ]
+  },
+  "Ruthie": {
+    "weight": [
+      400
+    ]
+  },
+  "Rye": {
+    "weight": [
+      400
+    ]
+  },
+  "STIX Two Text": {
+    "weight": [
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Sacramento": {
+    "weight": [
+      400
+    ]
+  },
+  "Sahitya": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Sail": {
+    "weight": [
+      400
+    ]
+  },
+  "Saira": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Saira Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Saira Extra Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Saira Semi Condensed": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Saira Stencil One": {
+    "weight": [
+      400
+    ]
+  },
+  "Salsa": {
+    "weight": [
+      400
+    ]
+  },
+  "Sanchez": {
+    "weight": [
+      400
+    ]
+  },
+  "Sancreek": {
+    "weight": [
+      400
+    ]
+  },
+  "Sansita": {
+    "weight": [
+      400,
+      700,
+      800,
+      900
+    ]
+  },
+  "Sansita Swashed": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Sarabun": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Sarala": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Sarina": {
+    "weight": [
+      400
+    ]
+  },
+  "Sarpanch": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Satisfy": {
+    "weight": [
+      400
+    ]
+  },
+  "Sawarabi Gothic": {
+    "weight": [
+      400
+    ]
+  },
+  "Sawarabi Mincho": {
+    "weight": [
+      400
+    ]
+  },
+  "Scada": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Scheherazade": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Scheherazade New": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Schoolbell": {
+    "weight": [
+      400
+    ]
+  },
+  "Scope One": {
+    "weight": [
+      400
+    ]
+  },
+  "Seaweed Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Secular One": {
+    "weight": [
+      400
+    ]
+  },
+  "Sedgwick Ave": {
+    "weight": [
+      400
+    ]
+  },
+  "Sedgwick Ave Display": {
+    "weight": [
+      400
+    ]
+  },
+  "Sen": {
+    "weight": [
+      400,
+      700,
+      800
+    ]
+  },
+  "Sevillana": {
+    "weight": [
+      400
+    ]
+  },
+  "Seymour One": {
+    "weight": [
+      400
+    ]
+  },
+  "Shadows Into Light": {
+    "weight": [
+      400
+    ]
+  },
+  "Shadows Into Light Two": {
+    "weight": [
+      400
+    ]
+  },
+  "Shanti": {
+    "weight": [
+      400
+    ]
+  },
+  "Share": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Share Tech": {
+    "weight": [
+      400
+    ]
+  },
+  "Share Tech Mono": {
+    "weight": [
+      400
+    ]
+  },
+  "Shippori Mincho": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Shippori Mincho B1": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Shojumaru": {
+    "weight": [
+      400
+    ]
+  },
+  "Short Stack": {
+    "weight": [
+      400
+    ]
+  },
+  "Shrikhand": {
+    "weight": [
+      400
+    ]
+  },
+  "Siemreap": {
+    "weight": [
+      400
+    ]
+  },
+  "Sigmar One": {
+    "weight": [
+      400
+    ]
+  },
+  "Signika": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Signika Negative": {
+    "weight": [
+      300,
+      400,
+      600,
+      700
+    ]
+  },
+  "Simonetta": {
+    "weight": [
+      400,
+      900
+    ]
+  },
+  "Single Day": {
+    "weight": [
+      400
+    ]
+  },
+  "Sintony": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Sirin Stencil": {
+    "weight": [
+      400
+    ]
+  },
+  "Six Caps": {
+    "weight": [
+      400
+    ]
+  },
+  "Skranji": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Slabo 13px": {
+    "weight": [
+      400
+    ]
+  },
+  "Slabo 27px": {
+    "weight": [
+      400
+    ]
+  },
+  "Slackey": {
+    "weight": [
+      400
+    ]
+  },
+  "Smokum": {
+    "weight": [
+      400
+    ]
+  },
+  "Smythe": {
+    "weight": [
+      400
+    ]
+  },
+  "Sniglet": {
+    "weight": [
+      400,
+      800
+    ]
+  },
+  "Snippet": {
+    "weight": [
+      400
+    ]
+  },
+  "Snowburst One": {
+    "weight": [
+      400
+    ]
+  },
+  "Sofadi One": {
+    "weight": [
+      400
+    ]
+  },
+  "Sofia": {
+    "weight": [
+      400
+    ]
+  },
+  "Solway": {
+    "weight": [
+      300,
+      400,
+      500,
+      700,
+      800
+    ]
+  },
+  "Song Myung": {
+    "weight": [
+      400
+    ]
+  },
+  "Sonsie One": {
+    "weight": [
+      400
+    ]
+  },
+  "Sora": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Sorts Mill Goudy": {
+    "weight": [
+      400
+    ]
+  },
+  "Source Code Pro": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ]
+  },
+  "Source Sans Pro": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      900
+    ]
+  },
+  "Source Serif Pro": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      900
+    ]
+  },
+  "Space Grotesk": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Space Mono": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Spartan": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Special Elite": {
+    "weight": [
+      400
+    ]
+  },
+  "Spectral": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Spectral SC": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Spicy Rice": {
+    "weight": [
+      400
+    ]
+  },
+  "Spinnaker": {
+    "weight": [
+      400
+    ]
+  },
+  "Spirax": {
+    "weight": [
+      400
+    ]
+  },
+  "Squada One": {
+    "weight": [
+      400
+    ]
+  },
+  "Sree Krushnadevaraya": {
+    "weight": [
+      400
+    ]
+  },
+  "Sriracha": {
+    "weight": [
+      400
+    ]
+  },
+  "Srisakdi": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Staatliches": {
+    "weight": [
+      400
+    ]
+  },
+  "Stalemate": {
+    "weight": [
+      400
+    ]
+  },
+  "Stalinist One": {
+    "weight": [
+      400
+    ]
+  },
+  "Stardos Stencil": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Stick": {
+    "weight": [
+      400
+    ]
+  },
+  "Stick No Bills": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Stint Ultra Condensed": {
+    "weight": [
+      400
+    ]
+  },
+  "Stint Ultra Expanded": {
+    "weight": [
+      400
+    ]
+  },
+  "Stoke": {
+    "weight": [
+      300,
+      400
+    ]
+  },
+  "Strait": {
+    "weight": [
+      400
+    ]
+  },
+  "Style Script": {
+    "weight": [
+      400
+    ]
+  },
+  "Stylish": {
+    "weight": [
+      400
+    ]
+  },
+  "Sue Ellen Francisco": {
+    "weight": [
+      400
+    ]
+  },
+  "Suez One": {
+    "weight": [
+      400
+    ]
+  },
+  "Sulphur Point": {
+    "weight": [
+      300,
+      400,
+      700
+    ]
+  },
+  "Sumana": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Sunflower": {
+    "weight": [
+      300,
+      500,
+      700
+    ]
+  },
+  "Sunshiney": {
+    "weight": [
+      400
+    ]
+  },
+  "Supermercado One": {
+    "weight": [
+      400
+    ]
+  },
+  "Sura": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Suranna": {
+    "weight": [
+      400
+    ]
+  },
+  "Suravaram": {
+    "weight": [
+      400
+    ]
+  },
+  "Suwannaphum": {
+    "weight": [
+      100,
+      300,
+      400,
+      700,
+      900
+    ]
+  },
+  "Swanky and Moo Moo": {
+    "weight": [
+      400
+    ]
+  },
+  "Syncopate": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Syne": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Syne Mono": {
+    "weight": [
+      400
+    ]
+  },
+  "Syne Tactile": {
+    "weight": [
+      400
+    ]
+  },
+  "Tajawal": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      700,
+      800,
+      900
+    ]
+  },
+  "Tangerine": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Taprom": {
+    "weight": [
+      400
+    ]
+  },
+  "Tauri": {
+    "weight": [
+      400
+    ]
+  },
+  "Taviraj": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Teko": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Telex": {
+    "weight": [
+      400
+    ]
+  },
+  "Tenali Ramakrishna": {
+    "weight": [
+      400
+    ]
+  },
+  "Tenor Sans": {
+    "weight": [
+      400
+    ]
+  },
+  "Text Me One": {
+    "weight": [
+      400
+    ]
+  },
+  "Texturina": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Thasadith": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "The Girl Next Door": {
+    "weight": [
+      400
+    ]
+  },
+  "Tienne": {
+    "weight": [
+      400,
+      700,
+      900
+    ]
+  },
+  "Tillana": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Timmana": {
+    "weight": [
+      400
+    ]
+  },
+  "Tinos": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Titan One": {
+    "weight": [
+      400
+    ]
+  },
+  "Titillium Web": {
+    "weight": [
+      200,
+      300,
+      400,
+      600,
+      700,
+      900
+    ]
+  },
+  "Tomorrow": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Tourney": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Trade Winds": {
+    "weight": [
+      400
+    ]
+  },
+  "Train One": {
+    "weight": [
+      400
+    ]
+  },
+  "Trirong": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Trispace": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800
+    ]
+  },
+  "Trocchi": {
+    "weight": [
+      400
+    ]
+  },
+  "Trochut": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Truculenta": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Trykker": {
+    "weight": [
+      400
+    ]
+  },
+  "Tulpen One": {
+    "weight": [
+      400
+    ]
+  },
+  "Turret Road": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      700,
+      800
+    ]
+  },
+  "Ubuntu": {
+    "weight": [
+      300,
+      400,
+      500,
+      700
+    ]
+  },
+  "Ubuntu Condensed": {
+    "weight": [
+      400
+    ]
+  },
+  "Ubuntu Mono": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Uchen": {
+    "weight": [
+      400
+    ]
+  },
+  "Ultra": {
+    "weight": [
+      400
+    ]
+  },
+  "Uncial Antiqua": {
+    "weight": [
+      400
+    ]
+  },
+  "Underdog": {
+    "weight": [
+      400
+    ]
+  },
+  "Unica One": {
+    "weight": [
+      400
+    ]
+  },
+  "UnifrakturCook": {
+    "weight": [
+      700
+    ]
+  },
+  "UnifrakturMaguntia": {
+    "weight": [
+      400
+    ]
+  },
+  "Unkempt": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Unlock": {
+    "weight": [
+      400
+    ]
+  },
+  "Unna": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Urbanist": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "VT323": {
+    "weight": [
+      400
+    ]
+  },
+  "Vampiro One": {
+    "weight": [
+      400
+    ]
+  },
+  "Varela": {
+    "weight": [
+      400
+    ]
+  },
+  "Varela Round": {
+    "weight": [
+      400
+    ]
+  },
+  "Varta": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Vast Shadow": {
+    "weight": [
+      400
+    ]
+  },
+  "Vesper Libre": {
+    "weight": [
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Viaoda Libre": {
+    "weight": [
+      400
+    ]
+  },
+  "Vibes": {
+    "weight": [
+      400
+    ]
+  },
+  "Vibur": {
+    "weight": [
+      400
+    ]
+  },
+  "Vidaloka": {
+    "weight": [
+      400
+    ]
+  },
+  "Viga": {
+    "weight": [
+      400
+    ]
+  },
+  "Voces": {
+    "weight": [
+      400
+    ]
+  },
+  "Volkhov": {
+    "weight": [
+      400,
+      700
+    ]
+  },
+  "Vollkorn": {
+    "weight": [
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Vollkorn SC": {
+    "weight": [
+      400,
+      600,
+      700,
+      900
+    ]
+  },
+  "Voltaire": {
+    "weight": [
+      400
+    ]
+  },
+  "Waiting for the Sunrise": {
+    "weight": [
+      400
+    ]
+  },
+  "Wallpoet": {
+    "weight": [
+      400
+    ]
+  },
+  "Walter Turncoat": {
+    "weight": [
+      400
+    ]
+  },
+  "Warnes": {
+    "weight": [
+      400
+    ]
+  },
+  "Wellfleet": {
+    "weight": [
+      400
+    ]
+  },
+  "Wendy One": {
+    "weight": [
+      400
+    ]
+  },
+  "WindSong": {
+    "weight": [
+      400,
+      500
+    ]
+  },
+  "Wire One": {
+    "weight": [
+      400
+    ]
+  },
+  "Work Sans": {
+    "weight": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ]
+  },
+  "Xanh Mono": {
+    "weight": [
+      400
+    ]
+  },
+  "Yaldevi": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Yanone Kaffeesatz": {
+    "weight": [
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Yantramanav": {
+    "weight": [
+      100,
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Yatra One": {
+    "weight": [
+      400
+    ]
+  },
+  "Yellowtail": {
+    "weight": [
+      400
+    ]
+  },
+  "Yeon Sung": {
+    "weight": [
+      400
+    ]
+  },
+  "Yeseva One": {
+    "weight": [
+      400
+    ]
+  },
+  "Yesteryear": {
+    "weight": [
+      400
+    ]
+  },
+  "Yomogi": {
+    "weight": [
+      400
+    ]
+  },
+  "Yrsa": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Yusei Magic": {
+    "weight": [
+      400
+    ]
+  },
+  "ZCOOL KuaiLe": {
+    "weight": [
+      400
+    ]
+  },
+  "ZCOOL QingKe HuangYou": {
+    "weight": [
+      400
+    ]
+  },
+  "ZCOOL XiaoWei": {
+    "weight": [
+      400
+    ]
+  },
+  "Zen Antique": {
+    "weight": [
+      400
+    ]
+  },
+  "Zen Antique Soft": {
+    "weight": [
+      400
+    ]
+  },
+  "Zen Dots": {
+    "weight": [
+      400
+    ]
+  },
+  "Zen Kaku Gothic Antique": {
+    "weight": [
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Zen Kaku Gothic New": {
+    "weight": [
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Zen Kurenaido": {
+    "weight": [
+      400
+    ]
+  },
+  "Zen Loop": {
+    "weight": [
+      400
+    ]
+  },
+  "Zen Maru Gothic": {
+    "weight": [
+      300,
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "Zen Old Mincho": {
+    "weight": [
+      400,
+      700,
+      900
+    ]
+  },
+  "Zen Tokyo Zoo": {
+    "weight": [
+      400
+    ]
+  },
+  "Zeyada": {
+    "weight": [
+      400
+    ]
+  },
+  "Zhi Mang Xing": {
+    "weight": [
+      400
+    ]
+  },
+  "Zilla Slab": {
+    "weight": [
+      300,
+      400,
+      500,
+      600,
+      700
+    ]
+  },
+  "Zilla Slab Highlight": {
+    "weight": [
+      400,
+      700
+    ]
+  }
+}
